@@ -1,0 +1,742 @@
+[INFO]: 18-01-2024 00:02:28 - view all data: {"body":[{"id":1,"username":"udin","account_number":123,"email_address":"udin@gmail.com","identity_number":"321","password":"$2a$10$dtkJIvnWR/2UGHD6eM6YYOwG4jsVKdpTF5YOQSVWHBbPuQuipGrlm","created":"2024-01-17T17:19:23+07:00","updated":"2024-01-17T17:19:23+07:00"}],"code":200,"message":"Successfully"}
+[INFO]: 18-01-2024 00:08:16 - view all data: {"body":[{"id":1,"username":"udin","account_number":123,"email_address":"udin@gmail.com","identity_number":"321","password":"$2a$10$dtkJIvnWR/2UGHD6eM6YYOwG4jsVKdpTF5YOQSVWHBbPuQuipGrlm","created":"2024-01-17T17:19:23+07:00","updated":"2024-01-17T17:19:23+07:00"}],"code":200,"message":"Successfully"}
+[INFO]: 18-01-2024 00:09:29 - view all data: {"body":[{"id":1,"username":"udin","account_number":123,"email_address":"udin@gmail.com","identity_number":"321","password":"$2a$10$dtkJIvnWR/2UGHD6eM6YYOwG4jsVKdpTF5YOQSVWHBbPuQuipGrlm","created":"2024-01-17T17:19:23+07:00","updated":"2024-01-17T17:19:23+07:00"}],"code":200,"message":"Successfully"}
+[INFO]: 18-01-2024 00:10:21 - view all data: {"body":[{"id":1,"username":"udin","account_number":123,"email_address":"udin@gmail.com","identity_number":"321","password":"$2a$10$dtkJIvnWR/2UGHD6eM6YYOwG4jsVKdpTF5YOQSVWHBbPuQuipGrlm","created":"2024-01-17T17:19:23+07:00","updated":"2024-01-17T17:19:23+07:00"}],"code":200,"message":"Successfully"}
+[INFO]: 18-01-2024 00:11:20 - Create user success
+[INFO]: 18-01-2024 00:11:27 - view all data: {"body":[{"id":1,"username":"udin","account_number":123,"email_address":"udin@gmail.com","identity_number":"321","password":"$2a$10$dtkJIvnWR/2UGHD6eM6YYOwG4jsVKdpTF5YOQSVWHBbPuQuipGrlm","created":"2024-01-17T17:19:23+07:00","updated":"2024-01-17T17:19:23+07:00"}],"code":200,"message":"Successfully"}
+[INFO]: 18-01-2024 00:11:31 - view all data: {"body":[{"id":1,"username":"udin","account_number":123,"email_address":"udin@gmail.com","identity_number":"321","password":"$2a$10$dtkJIvnWR/2UGHD6eM6YYOwG4jsVKdpTF5YOQSVWHBbPuQuipGrlm","created":"2024-01-17T17:19:23+07:00","updated":"2024-01-17T17:19:23+07:00"}],"code":200,"message":"Successfully"}
+[INFO]: 18-01-2024 00:11:44 - Deleted user success
+[INFO]: 18-01-2024 00:11:57 - view all data: {"body":[{"id":1,"username":"udin","account_number":123,"email_address":"udin@gmail.com","identity_number":"321","password":"$2a$10$dtkJIvnWR/2UGHD6eM6YYOwG4jsVKdpTF5YOQSVWHBbPuQuipGrlm","created":"2024-01-17T17:19:23+07:00","updated":"2024-01-17T17:19:23+07:00"}],"code":200,"message":"Successfully"}
+[INFO]: 18-01-2024 00:16:00 - view all data: {"body":[{"id":1,"username":"udin","account_number":123,"email_address":"udin@gmail.com","identity_number":"321","password":"$2a$10$dtkJIvnWR/2UGHD6eM6YYOwG4jsVKdpTF5YOQSVWHBbPuQuipGrlm","created":"2024-01-17T17:19:23+07:00","updated":"2024-01-17T17:19:23+07:00"}],"code":200,"message":"Successfully"}
+[INFO]: 18-01-2024 00:16:19 - view all data: {"body":[{"id":1,"username":"udin","account_number":123,"email_address":"udin@gmail.com","identity_number":"321","password":"$2a$10$dtkJIvnWR/2UGHD6eM6YYOwG4jsVKdpTF5YOQSVWHBbPuQuipGrlm","created":"2024-01-17T17:19:23+07:00","updated":"2024-01-17T17:19:23+07:00"}],"code":200,"message":"Successfully"}
+[INFO]: 18-01-2024 00:18:24 - view all data: {"body":[{"id":1,"username":"udin","account_number":123,"email_address":"udin@gmail.com","identity_number":"321","password":"$2a$10$dtkJIvnWR/2UGHD6eM6YYOwG4jsVKdpTF5YOQSVWHBbPuQuipGrlm","created":"2024-01-17T17:19:23+07:00","updated":"2024-01-17T17:19:23+07:00"}],"code":200,"message":"Successfully"}
+[INFO]: 18-01-2024 00:18:52 - view all data: {"body":[{"id":1,"username":"udin","account_number":123,"email_address":"udin@gmail.com","identity_number":"321","password":"$2a$10$dtkJIvnWR/2UGHD6eM6YYOwG4jsVKdpTF5YOQSVWHBbPuQuipGrlm","created":"2024-01-17T17:19:23+07:00","updated":"2024-01-17T17:19:23+07:00"}],"code":200,"message":"Successfully"}
+[INFO]: 18-01-2024 00:19:49 - view all data: {"body":[{"id":1,"username":"udin","account_number":123,"email_address":"udin@gmail.com","identity_number":"321","password":"$2a$10$dtkJIvnWR/2UGHD6eM6YYOwG4jsVKdpTF5YOQSVWHBbPuQuipGrlm","created":"2024-01-17T17:19:23+07:00","updated":"2024-01-17T17:19:23+07:00"}],"code":200,"message":"Successfully"}
+[INFO]: 18-01-2024 00:20:23 - view all data: {"body":[{"id":1,"username":"udin","account_number":123,"email_address":"udin@gmail.com","identity_number":"321","password":"$2a$10$dtkJIvnWR/2UGHD6eM6YYOwG4jsVKdpTF5YOQSVWHBbPuQuipGrlm","created":"2024-01-17T17:19:23+07:00","updated":"2024-01-17T17:19:23+07:00"}],"code":200,"message":"Successfully"}
+[INFO]: 18-01-2024 00:20:45 - view all data: {"body":[{"id":1,"username":"udin","account_number":123,"email_address":"udin@gmail.com","identity_number":"321","password":"$2a$10$dtkJIvnWR/2UGHD6eM6YYOwG4jsVKdpTF5YOQSVWHBbPuQuipGrlm","created":"2024-01-17T17:19:23+07:00","updated":"2024-01-17T17:19:23+07:00"}],"code":200,"message":"Successfully"}
+[INFO]: 18-01-2024 00:21:27 - view all data: {"body":[{"id":1,"username":"udin","account_number":123,"email_address":"udin@gmail.com","identity_number":"321","password":"$2a$10$dtkJIvnWR/2UGHD6eM6YYOwG4jsVKdpTF5YOQSVWHBbPuQuipGrlm","created":"2024-01-17T17:19:23+07:00","updated":"2024-01-17T17:19:23+07:00"}],"code":200,"message":"Successfully"}
+[INFO]: 18-01-2024 00:21:40 - view all data: {"body":[{"id":1,"username":"udin","account_number":123,"email_address":"udin@gmail.com","identity_number":"321","password":"$2a$10$dtkJIvnWR/2UGHD6eM6YYOwG4jsVKdpTF5YOQSVWHBbPuQuipGrlm","created":"2024-01-17T17:19:23+07:00","updated":"2024-01-17T17:19:23+07:00"}],"code":200,"message":"Successfully"}
+[INFO]: 18-01-2024 00:21:59 - view all data: {"body":[{"id":1,"username":"udin","account_number":123,"email_address":"udin@gmail.com","identity_number":"321","password":"$2a$10$dtkJIvnWR/2UGHD6eM6YYOwG4jsVKdpTF5YOQSVWHBbPuQuipGrlm","created":"2024-01-17T17:19:23+07:00","updated":"2024-01-17T17:19:23+07:00"}],"code":200,"message":"Successfully"}
+[INFO]: 18-01-2024 00:24:04 - view all data: {"body":[{"id":1,"username":"udin","account_number":123,"email_address":"udin@gmail.com","identity_number":"321","password":"$2a$10$dtkJIvnWR/2UGHD6eM6YYOwG4jsVKdpTF5YOQSVWHBbPuQuipGrlm","created":"2024-01-17T17:19:23+07:00","updated":"2024-01-17T17:19:23+07:00"}],"code":200,"message":"Successfully"}
+[INFO]: 18-01-2024 00:25:20 - view all data: {"body":[{"id":1,"username":"udin","account_number":123,"email_address":"udin@gmail.com","identity_number":"321","password":"$2a$10$dtkJIvnWR/2UGHD6eM6YYOwG4jsVKdpTF5YOQSVWHBbPuQuipGrlm","created":"2024-01-17T17:19:23+07:00","updated":"2024-01-17T17:19:23+07:00"}],"code":200,"message":"Successfully"}
+[INFO]: 18-01-2024 00:25:34 - view all data: {"body":[{"id":1,"username":"udin","account_number":123,"email_address":"udin@gmail.com","identity_number":"321","password":"$2a$10$dtkJIvnWR/2UGHD6eM6YYOwG4jsVKdpTF5YOQSVWHBbPuQuipGrlm","created":"2024-01-17T17:19:23+07:00","updated":"2024-01-17T17:19:23+07:00"}],"code":200,"message":"Successfully"}
+[INFO]: 18-01-2024 00:26:24 - view all data: {"body":[{"id":1,"username":"udin","account_number":123,"email_address":"udin@gmail.com","identity_number":"321","password":"$2a$10$dtkJIvnWR/2UGHD6eM6YYOwG4jsVKdpTF5YOQSVWHBbPuQuipGrlm","created":"2024-01-17T17:19:23+07:00","updated":"2024-01-17T17:19:23+07:00"}],"code":200,"message":"Successfully"}
+[INFO]: 18-01-2024 00:27:05 - view all data: {"body":[{"id":1,"username":"udin","account_number":123,"email_address":"udin@gmail.com","identity_number":"321","password":"$2a$10$dtkJIvnWR/2UGHD6eM6YYOwG4jsVKdpTF5YOQSVWHBbPuQuipGrlm","created":"2024-01-17T17:19:23+07:00","updated":"2024-01-17T17:19:23+07:00"}],"code":200,"message":"Successfully"}
+[INFO]: 18-01-2024 00:28:03 - view all data: {"body":[{"id":1,"username":"udin","account_number":123,"email_address":"udin@gmail.com","identity_number":"321","password":"$2a$10$dtkJIvnWR/2UGHD6eM6YYOwG4jsVKdpTF5YOQSVWHBbPuQuipGrlm","created":"2024-01-17T17:19:23+07:00","updated":"2024-01-17T17:19:23+07:00"}],"code":200,"message":"Successfully"}
+[ERROR]: 18-01-2024 00:51:17 - In Server: record not found
+[ERROR]: 18-01-2024 00:51:17 - error function params:  record not found
+[ERROR]: 18-01-2024 00:51:17 - In Server: record not found
+[INFO]: 18-01-2024 00:51:23 - view detail data: {"body":{"id":1,"username":"udin","account_number":123,"email_address":"udin@gmail.com","identity_number":"321","password":"$2a$10$dtkJIvnWR/2UGHD6eM6YYOwG4jsVKdpTF5YOQSVWHBbPuQuipGrlm","created":"2024-01-17T17:19:23+07:00","updated":"2024-01-17T17:19:23+07:00"},"code":200,"message":"Successfully"}
+[INFO]: 18-01-2024 00:51:26 - view detail data: {"body":{"id":1,"username":"udin","account_number":123,"email_address":"udin@gmail.com","identity_number":"321","password":"$2a$10$dtkJIvnWR/2UGHD6eM6YYOwG4jsVKdpTF5YOQSVWHBbPuQuipGrlm","created":"2024-01-17T17:19:23+07:00","updated":"2024-01-17T17:19:23+07:00"},"code":200,"message":"Successfully"}
+[INFO]: 18-01-2024 08:38:16 - created user: {"body":{"username":"eeq","email":"eeq@gmail.com","account_number":123,"email_address":"eeq@gmail.com","identity_number":"321"},"code":201,"message":"Successfully"}
+[ERROR]: 18-01-2024 08:39:13 - In Server: record not found
+[ERROR]: 18-01-2024 08:39:13 - In Server: record not found
+[ERROR]: 18-01-2024 08:40:55 - In Server: Error 1054: Unknown column 'email' in 'where clause'
+[ERROR]: 18-01-2024 08:40:55 - In Server: Error 1054: Unknown column 'email' in 'where clause'
+[INFO]: 18-01-2024 08:43:15 - login: {"body":{"token":{"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JpemVkIjp0cnVlLCJlbWFpbCI6ImVlcUBnbWFpbC5jb20iLCJleHAiOjE3MDU1NDkzOTUsInVzZXJfaWQiOiJcdTAwMGMiLCJ1c2VybmFtZSI6ImVlcSJ9.9DnPit7tYYWxYAm2MdHy7wj2Mg_nipL87y2N1xEL140","refresh_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JpemVkIjp0cnVlLCJlbWFpbCI6ImVlcUBnbWFpbC5jb20iLCJleHAiOjE3MDU1NDkzOTUsInVzZXJfaWQiOiJcdTAwMGMiLCJ1c2VybmFtZSI6ImVlcSJ9.9DnPit7tYYWxYAm2MdHy7wj2Mg_nipL87y2N1xEL140"},"user":{"id":0,"username":"eeq","account_number":0,"email_address":"eeq@gmail.com","identity_number":"","created":"0001-01-01T00:00:00Z","updated":"0001-01-01T00:00:00Z"}},"code":200,"message":"Successfully"}
+[ERROR]: 18-01-2024 08:49:52 - In Server: No token bearer provided
+[INFO]: 18-01-2024 08:50:00 - login: {"body":{"token":{"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JpemVkIjp0cnVlLCJlbWFpbCI6ImVlcUBnbWFpbC5jb20iLCJleHAiOjE3MDU1NDk4MDAsInVzZXJfaWQiOiJcdTAwMGMiLCJ1c2VybmFtZSI6ImVlcSJ9.zH9KzMRgKiYoPcKGDFvoLDh7EJygCx3P1ri0_grJlEI","refresh_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JpemVkIjp0cnVlLCJlbWFpbCI6ImVlcUBnbWFpbC5jb20iLCJleHAiOjE3MDU1NDk4MDAsInVzZXJfaWQiOiJcdTAwMGMiLCJ1c2VybmFtZSI6ImVlcSJ9.zH9KzMRgKiYoPcKGDFvoLDh7EJygCx3P1ri0_grJlEI"},"user":{"id":0,"username":"eeq","account_number":0,"email_address":"eeq@gmail.com","identity_number":"","created":"0001-01-01T00:00:00Z","updated":"0001-01-01T00:00:00Z"}},"code":200,"message":"Successfully"}
+[INFO]: 18-01-2024 08:50:24 - view detail data: {"body":{"id":1,"username":"udin","account_number":123,"email_address":"udin@gmail.com","identity_number":"321","password":"$2a$10$dtkJIvnWR/2UGHD6eM6YYOwG4jsVKdpTF5YOQSVWHBbPuQuipGrlm","created":"2024-01-17T17:19:23+07:00","updated":"2024-01-17T17:19:23+07:00"},"code":200,"message":"Successfully"}
+[INFO]: 18-01-2024 09:04:29 - view detail data: {"body":{"username":"udin","email":"","account_number":123,"email_address":"udin@gmail.com","identity_number":"321"},"code":200,"message":"Successfully"}
+[INFO]: 18-01-2024 09:05:45 - view detail data: {"body":{"username":"udin","email":"","account_number":123,"email_address":"udin@gmail.com","identity_number":"321"},"code":200,"message":"Successfully"}
+[INFO]: 18-01-2024 09:05:48 - view detail data: {"body":{"username":"udin","email":"","account_number":123,"email_address":"udin@gmail.com","identity_number":"321"},"code":200,"message":"Successfully"}
+[INFO]: 18-01-2024 09:06:36 - view detail data: {"body":{"username":"udin","account_number":123,"email_address":"udin@gmail.com","identity_number":"321"},"code":200,"message":"Successfully"}
+[INFO]: 18-01-2024 09:08:57 - view detail data: {"body":{"id":1,"username":"udin","account_number":123,"email_address":"udin@gmail.com","identity_number":"321","password":"$2a$10$dtkJIvnWR/2UGHD6eM6YYOwG4jsVKdpTF5YOQSVWHBbPuQuipGrlm","created":"2024-01-17T17:19:23+07:00","updated":"2024-01-17T17:19:23+07:00"},"code":200,"message":"Successfully"}
+[INFO]: 18-01-2024 09:09:00 - view detail data: {"body":{"id":1,"username":"udin","account_number":123,"email_address":"udin@gmail.com","identity_number":"321","password":"$2a$10$dtkJIvnWR/2UGHD6eM6YYOwG4jsVKdpTF5YOQSVWHBbPuQuipGrlm","created":"2024-01-17T17:19:23+07:00","updated":"2024-01-17T17:19:23+07:00"},"code":200,"message":"Successfully"}
+[INFO]: 18-01-2024 09:10:13 - view detail data: {"body":{"username":"udin","account_number":123,"email_address":"udin@gmail.com","identity_number":"321"},"code":200,"message":"Successfully"}
+[ERROR]: 18-01-2024 09:10:25 - In Server: No token bearer provided
+[ERROR]: 18-01-2024 09:10:54 - In Server: record not found
+[ERROR]: 18-01-2024 09:10:54 - error function params:  record not found
+[ERROR]: 18-01-2024 09:10:54 - In Server: record not found
+[ERROR]: 18-01-2024 09:11:03 - In Server: record not found
+[ERROR]: 18-01-2024 09:11:03 - error function params:  record not found
+[ERROR]: 18-01-2024 09:11:03 - In Server: record not found
+[INFO]: 18-01-2024 09:11:07 - view all data: {"body":[{"id":1,"username":"udin","account_number":123,"email_address":"udin@gmail.com","identity_number":"321","password":"$2a$10$dtkJIvnWR/2UGHD6eM6YYOwG4jsVKdpTF5YOQSVWHBbPuQuipGrlm","created":"2024-01-17T17:19:23+07:00","updated":"2024-01-17T17:19:23+07:00"},{"id":12,"username":"eeq","account_number":123,"email_address":"eeq@gmail.com","identity_number":"321","password":"$2a$10$KVDlkdSX63VwN7eRO6DV3u7mN8yQIqBsOXFckbhPHzspS6ucF/cMq","created":"2024-01-18T08:38:16+07:00","updated":"2024-01-18T08:38:16+07:00"}],"code":200,"message":"Successfully"}
+[INFO]: 18-01-2024 09:13:44 - view all data: {"body":[{"id":1,"username":"udin","account_number":123,"email_address":"udin@gmail.com","identity_number":"321","created":"2024-01-17T17:19:23+07:00","updated":"2024-01-17T17:19:23+07:00"},{"id":12,"username":"eeq","account_number":123,"email_address":"eeq@gmail.com","identity_number":"321","created":"2024-01-18T08:38:16+07:00","updated":"2024-01-18T08:38:16+07:00"}],"code":200,"message":"Successfully"}
+[INFO]: 18-01-2024 09:21:43 - view detail data: {"body":{"id":1,"username":"udin","account_number":123,"email_address":"udin@gmail.com","identity_number":"321","created":"0001-01-01T00:00:00Z","updated":"0001-01-01T00:00:00Z"},"code":200,"message":"Successfully"}
+[INFO]: 18-01-2024 09:27:12 - view all data: {"body":[{"id":1,"username":"udin","account_number":123,"email_address":"udin@gmail.com","identity_number":"321","created":"2024-01-17T17:19:23+07:00","updated":"2024-01-17T17:19:23+07:00"},{"id":12,"username":"eeq","account_number":123,"email_address":"eeq@gmail.com","identity_number":"321","created":"2024-01-18T08:38:16+07:00","updated":"2024-01-18T08:38:16+07:00"}],"code":200,"message":"Successfully"}
+[INFO]: 18-01-2024 09:27:16 - view all data: {"body":[{"id":1,"username":"udin","account_number":123,"email_address":"udin@gmail.com","identity_number":"321","created":"2024-01-17T17:19:23+07:00","updated":"2024-01-17T17:19:23+07:00"},{"id":12,"username":"eeq","account_number":123,"email_address":"eeq@gmail.com","identity_number":"321","created":"2024-01-18T08:38:16+07:00","updated":"2024-01-18T08:38:16+07:00"}],"code":200,"message":"Successfully"}
+[ERROR]: 18-01-2024 09:29:59 - In Server: No token bearer provided
+[INFO]: 18-01-2024 09:30:24 - Udpated user success
+[ERROR]: 18-01-2024 09:55:03 - Error getting env
+[INFO]: 18-01-2024 09:55:49 - login: {"body":{"token":{"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JpemVkIjp0cnVlLCJlbWFpbCI6ImVlcUBnbWFpbC5jb20iLCJleHAiOjE3MDU1NTM3NDksInVzZXJfaWQiOiJcdTAwMGMiLCJ1c2VybmFtZSI6ImVlcSJ9.x9TFb-Aicm0LsasI9PlWt6uT6BIchkxkZqgPvtahMUw","refresh_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JpemVkIjp0cnVlLCJlbWFpbCI6ImVlcUBnbWFpbC5jb20iLCJleHAiOjE3MDU1NTM3NDksInVzZXJfaWQiOiJcdTAwMGMiLCJ1c2VybmFtZSI6ImVlcSJ9.x9TFb-Aicm0LsasI9PlWt6uT6BIchkxkZqgPvtahMUw"},"user":{"id":0,"username":"eeq","account_number":0,"email_address":"eeq@gmail.com","identity_number":"","created":"0001-01-01T00:00:00Z","updated":"0001-01-01T00:00:00Z"}},"code":200,"message":"Successfully"}
+[INFO]: 18-01-2024 09:56:36 - login: {"body":{"token":{"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JpemVkIjp0cnVlLCJlbWFpbCI6ImVlcUBnbWFpbC5jb20iLCJleHAiOjE3MDU1NTM3OTYsInVzZXJfaWQiOiJcdTAwMGMiLCJ1c2VybmFtZSI6ImVlcSJ9.gE4az2einRQwr9eax3OT11kdDrpGAUqys1mG4fGTfz0","refresh_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JpemVkIjp0cnVlLCJlbWFpbCI6ImVlcUBnbWFpbC5jb20iLCJleHAiOjE3MDU1NTM3OTYsInVzZXJfaWQiOiJcdTAwMGMiLCJ1c2VybmFtZSI6ImVlcSJ9.gE4az2einRQwr9eax3OT11kdDrpGAUqys1mG4fGTfz0"},"user":{"id":0,"username":"eeq","account_number":0,"email_address":"eeq@gmail.com","identity_number":"","created":"0001-01-01T00:00:00Z","updated":"0001-01-01T00:00:00Z"}},"code":200,"message":"Successfully"}
+[INFO]: 18-01-2024 09:56:49 - login: {"body":{"token":{"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JpemVkIjp0cnVlLCJlbWFpbCI6ImVlcUBnbWFpbC5jb20iLCJleHAiOjE3MDU1NTM4MDksInVzZXJfaWQiOiJcdTAwMGMiLCJ1c2VybmFtZSI6ImVlcSJ9.KtzgF0Hzw0_BLCdGFOI83xiAZJzZ2r5u_cBj5IJA2cc","refresh_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JpemVkIjp0cnVlLCJlbWFpbCI6ImVlcUBnbWFpbC5jb20iLCJleHAiOjE3MDU1NTM4MDksInVzZXJfaWQiOiJcdTAwMGMiLCJ1c2VybmFtZSI6ImVlcSJ9.KtzgF0Hzw0_BLCdGFOI83xiAZJzZ2r5u_cBj5IJA2cc"},"user":{"id":0,"username":"eeq","account_number":0,"email_address":"eeq@gmail.com","identity_number":"","created":"0001-01-01T00:00:00Z","updated":"0001-01-01T00:00:00Z"}},"code":200,"message":"Successfully"}
+[INFO]: 18-01-2024 09:57:19 - view all data: {"body":[{"id":1,"username":"udin","account_number":123,"email_address":"udin@gmail.com","identity_number":"321","created":"2024-01-17T17:19:23+07:00","updated":"2024-01-17T17:19:23+07:00"},{"id":12,"username":"eeq","account_number":123,"email_address":"eeq@gmail.com","identity_number":"321","created":"2024-01-18T08:38:16+07:00","updated":"2024-01-18T08:38:16+07:00"}],"code":200,"message":"Successfully"}
+[INFO]: 18-01-2024 09:58:44 - view all data: {"body":[{"id":1,"username":"udin","account_number":123,"email_address":"udin@gmail.com","identity_number":"321","created":"2024-01-17T17:19:23+07:00","updated":"2024-01-17T17:19:23+07:00"},{"id":12,"username":"eeq","account_number":123,"email_address":"eeq@gmail.com","identity_number":"321","created":"2024-01-18T08:38:16+07:00","updated":"2024-01-18T08:38:16+07:00"}],"code":200,"message":"Successfully"}
+[INFO]: 18-01-2024 09:58:50 - login: {"body":{"token":{"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JpemVkIjp0cnVlLCJlbWFpbCI6ImVlcUBnbWFpbC5jb20iLCJleHAiOjE3MDU1NTM5MzAsInVzZXJfaWQiOiJcdTAwMGMiLCJ1c2VybmFtZSI6ImVlcSJ9.SINcq9JGLV1a3W3tGFI8xRS5rH9GNl3IWgMjVQWBNR8","refresh_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JpemVkIjp0cnVlLCJlbWFpbCI6ImVlcUBnbWFpbC5jb20iLCJleHAiOjE3MDU1NTM5MzAsInVzZXJfaWQiOiJcdTAwMGMiLCJ1c2VybmFtZSI6ImVlcSJ9.SINcq9JGLV1a3W3tGFI8xRS5rH9GNl3IWgMjVQWBNR8"},"user":{"id":0,"username":"eeq","account_number":0,"email_address":"eeq@gmail.com","identity_number":"","created":"0001-01-01T00:00:00Z","updated":"0001-01-01T00:00:00Z"}},"code":200,"message":"Successfully"}
+[INFO]: 18-01-2024 10:16:47 - view all data user
+[INFO]: 18-01-2024 10:16:51 - view all data user
+[INFO]: 18-01-2024 10:16:57 - view all data user
+[INFO]: 18-01-2024 10:18:44 - view all data user
+[INFO]: 18-01-2024 10:18:46 - view all data user
+[INFO]: 18-01-2024 10:18:48 - view all data user
+[INFO]: 18-01-2024 10:18:59 - view all data user
+[INFO]: 18-01-2024 10:19:02 - view all data user
+[INFO]: 18-01-2024 10:19:05 - view all data user
+[INFO]: 18-01-2024 10:20:21 - view all data user
+[INFO]: 18-01-2024 10:20:25 - view all data user
+[INFO]: 18-01-2024 10:20:31 - view all data user
+[INFO]: 18-01-2024 10:20:34 - view all data user
+[ERROR]: 18-01-2024 11:01:51 - Failed to connect to MongoDB: error parsing uri: scheme must be "mongodb" or "mongodb+srv"
+[ERROR]: 18-01-2024 11:04:05 - Failed to connect to MongoDB: error parsing uri: scheme must be "mongodb" or "mongodb+srv"
+[ERROR]: 18-01-2024 11:06:20 - In Server: cannot marshal type primitive.D to a BSON Document: WriteNull can only write while positioned on a Element or Value but is positioned on a TopLevel
+[ERROR]: 18-01-2024 11:06:20 - In Server: cannot marshal type primitive.D to a BSON Document: WriteNull can only write while positioned on a Element or Value but is positioned on a TopLevel
+[ERROR]: 18-01-2024 11:06:32 - In Server: database name cannot be empty
+[ERROR]: 18-01-2024 11:06:32 - In Server: database name cannot be empty
+[ERROR]: 18-01-2024 11:06:32 - In Server: database name cannot be empty
+[ERROR]: 18-01-2024 12:54:17 - In Server: database name cannot be empty
+[ERROR]: 18-01-2024 12:54:17 - In Server: database name cannot be empty
+[ERROR]: 18-01-2024 12:54:17 - In Server: database name cannot be empty
+[INFO]: 18-01-2024 12:55:02 - Create user success
+[ERROR]: 18-01-2024 12:55:41 - In Server: cannot marshal type primitive.D to a BSON Document: WriteNull can only write while positioned on a Element or Value but is positioned on a TopLevel
+[ERROR]: 18-01-2024 12:55:41 - In Server: cannot marshal type primitive.D to a BSON Document: WriteNull can only write while positioned on a Element or Value but is positioned on a TopLevel
+[ERROR]: 18-01-2024 12:55:43 - In Server: cannot marshal type primitive.D to a BSON Document: WriteNull can only write while positioned on a Element or Value but is positioned on a TopLevel
+[ERROR]: 18-01-2024 12:55:43 - In Server: cannot marshal type primitive.D to a BSON Document: WriteNull can only write while positioned on a Element or Value but is positioned on a TopLevel
+[ERROR]: 18-01-2024 12:56:35 - In Server: mongo: no documents in result
+[ERROR]: 18-01-2024 12:56:35 - error function params:  mongo: no documents in result
+[ERROR]: 18-01-2024 12:56:35 - In Server: mongo: no documents in result
+[ERROR]: 18-01-2024 12:56:35 - In Server: mongo: no documents in result
+[ERROR]: 18-01-2024 12:56:41 - In Server: mongo: no documents in result
+[ERROR]: 18-01-2024 12:56:41 - error function params:  mongo: no documents in result
+[ERROR]: 18-01-2024 12:56:41 - In Server: mongo: no documents in result
+[ERROR]: 18-01-2024 12:56:41 - In Server: mongo: no documents in result
+[ERROR]: 18-01-2024 12:56:43 - In Server: mongo: no documents in result
+[ERROR]: 18-01-2024 12:56:43 - error function params:  mongo: no documents in result
+[ERROR]: 18-01-2024 12:56:43 - In Server: mongo: no documents in result
+[ERROR]: 18-01-2024 12:56:43 - In Server: mongo: no documents in result
+[ERROR]: 18-01-2024 12:56:54 - In Server: mongo: no documents in result
+[ERROR]: 18-01-2024 12:56:54 - error function params:  mongo: no documents in result
+[ERROR]: 18-01-2024 12:56:54 - In Server: mongo: no documents in result
+[ERROR]: 18-01-2024 12:56:54 - In Server: mongo: no documents in result
+[INFO]: 18-01-2024 12:57:54 - Create user success
+[ERROR]: 18-01-2024 12:58:15 - In Server: cannot marshal type primitive.D to a BSON Document: WriteNull can only write while positioned on a Element or Value but is positioned on a TopLevel
+[ERROR]: 18-01-2024 12:58:15 - In Server: cannot marshal type primitive.D to a BSON Document: WriteNull can only write while positioned on a Element or Value but is positioned on a TopLevel
+[ERROR]: 18-01-2024 13:03:23 - In Server: cannot marshal type primitive.D to a BSON Document: WriteNull can only write while positioned on a Element or Value but is positioned on a TopLevel
+[ERROR]: 18-01-2024 13:03:23 - In Server: cannot marshal type primitive.D to a BSON Document: WriteNull can only write while positioned on a Element or Value but is positioned on a TopLevel
+[ERROR]: 18-01-2024 13:04:31 - In Server: cannot marshal type primitive.D to a BSON Document: WriteNull can only write while positioned on a Element or Value but is positioned on a TopLevel
+[ERROR]: 18-01-2024 13:04:31 - In Server: cannot marshal type primitive.D to a BSON Document: WriteNull can only write while positioned on a Element or Value but is positioned on a TopLevel
+[ERROR]: 18-01-2024 13:04:33 - In Server: cannot marshal type primitive.D to a BSON Document: WriteNull can only write while positioned on a Element or Value but is positioned on a TopLevel
+[ERROR]: 18-01-2024 13:04:33 - In Server: cannot marshal type primitive.D to a BSON Document: WriteNull can only write while positioned on a Element or Value but is positioned on a TopLevel
+[ERROR]: 18-01-2024 13:05:29 - In Server: mongo: no documents in result
+[ERROR]: 18-01-2024 13:05:29 - error function params:  mongo: no documents in result
+[ERROR]: 18-01-2024 13:05:29 - In Server: mongo: no documents in result
+[ERROR]: 18-01-2024 13:05:29 - In Server: mongo: no documents in result
+[ERROR]: 18-01-2024 13:05:34 - In Server: mongo: no documents in result
+[ERROR]: 18-01-2024 13:05:34 - error function params:  mongo: no documents in result
+[ERROR]: 18-01-2024 13:05:34 - In Server: mongo: no documents in result
+[ERROR]: 18-01-2024 13:05:34 - In Server: mongo: no documents in result
+[ERROR]: 18-01-2024 13:05:39 - In Server: mongo: no documents in result
+[ERROR]: 18-01-2024 13:05:39 - error function params:  mongo: no documents in result
+[ERROR]: 18-01-2024 13:05:39 - In Server: mongo: no documents in result
+[ERROR]: 18-01-2024 13:05:39 - In Server: mongo: no documents in result
+[ERROR]: 18-01-2024 13:06:24 - In Server: mongo: no documents in result
+[ERROR]: 18-01-2024 13:06:24 - error function params:  mongo: no documents in result
+[ERROR]: 18-01-2024 13:06:24 - In Server: mongo: no documents in result
+[ERROR]: 18-01-2024 13:06:24 - In Server: mongo: no documents in result
+[ERROR]: 18-01-2024 13:06:31 - In Server: cannot marshal type primitive.D to a BSON Document: WriteNull can only write while positioned on a Element or Value but is positioned on a TopLevel
+[ERROR]: 18-01-2024 13:06:31 - In Server: cannot marshal type primitive.D to a BSON Document: WriteNull can only write while positioned on a Element or Value but is positioned on a TopLevel
+[ERROR]: 18-01-2024 13:22:53 - Failed to connect to MongoDB: parse "mongodb+srv://lutfi:<password>@cluster0.stfo9al.mongodb.net/?retryWrites=true&w=majority": net/url: invalid userinfo
+[ERROR]: 18-01-2024 13:23:26 - In Server: cannot marshal type primitive.D to a BSON Document: WriteNull can only write while positioned on a Element or Value but is positioned on a TopLevel
+[ERROR]: 18-01-2024 13:23:26 - In Server: cannot marshal type primitive.D to a BSON Document: WriteNull can only write while positioned on a Element or Value but is positioned on a TopLevel
+[INFO]: 18-01-2024 13:23:32 - Create user success
+[ERROR]: 18-01-2024 13:25:00 - In Server: database name cannot be empty
+[ERROR]: 18-01-2024 13:25:00 - In Server: database name cannot be empty
+[ERROR]: 18-01-2024 13:25:00 - In Server: database name cannot be empty
+[INFO]: 18-01-2024 13:26:54 - Create user success
+[ERROR]: 18-01-2024 13:28:00 - In Server: mongo: no documents in result
+[ERROR]: 18-01-2024 13:28:00 - error function params:  mongo: no documents in result
+[ERROR]: 18-01-2024 13:28:00 - In Server: mongo: no documents in result
+[ERROR]: 18-01-2024 13:28:00 - In Server: mongo: no documents in result
+[ERROR]: 18-01-2024 13:28:03 - In Server: mongo: no documents in result
+[ERROR]: 18-01-2024 13:28:03 - error function params:  mongo: no documents in result
+[ERROR]: 18-01-2024 13:28:03 - In Server: mongo: no documents in result
+[ERROR]: 18-01-2024 13:28:03 - In Server: mongo: no documents in result
+[INFO]: 18-01-2024 13:38:55 - Create user success
+[INFO]: 18-01-2024 13:44:10 - Create user success
+[INFO]: 18-01-2024 13:45:15 - view detail data: {"body":{"id":0,"username":"eeq","account_number":123,"email_address":"eeq@gmail.com","identity_number":"321","created":"0001-01-01T00:00:00Z","updated":"0001-01-01T00:00:00Z"},"code":200,"message":"Successfully"}
+[INFO]: 18-01-2024 13:45:18 - view detail data: {"body":{"id":0,"username":"eeq","account_number":123,"email_address":"eeq@gmail.com","identity_number":"321","created":"0001-01-01T00:00:00Z","updated":"0001-01-01T00:00:00Z"},"code":200,"message":"Successfully"}
+[ERROR]: 18-01-2024 13:51:10 - In Server: cannot marshal type primitive.D to a BSON Document: WriteNull can only write while positioned on a Element or Value but is positioned on a TopLevel
+[ERROR]: 18-01-2024 13:51:10 - In Server: cannot marshal type primitive.D to a BSON Document: WriteNull can only write while positioned on a Element or Value but is positioned on a TopLevel
+[ERROR]: 18-01-2024 13:55:51 - In Server: cannot marshal type primitive.D to a BSON Document: WriteNull can only write while positioned on a Element or Value but is positioned on a TopLevel
+[ERROR]: 18-01-2024 13:55:51 - In Server: cannot marshal type primitive.D to a BSON Document: WriteNull can only write while positioned on a Element or Value but is positioned on a TopLevel
+[INFO]: 18-01-2024 13:55:58 - Create user success
+[INFO]: 18-01-2024 13:56:44 - view detail data: {"body":{"id":1,"username":"eeq","account_number":123,"email_address":"eeq@gmail.com","identity_number":"321","created":"0001-01-01T00:00:00Z","updated":"0001-01-01T00:00:00Z"},"code":200,"message":"Successfully"}
+[ERROR]: 18-01-2024 14:11:28 - In Server: (InvalidNamespace) Invalid namespace specified 'lutfi_folkatechdb.'
+[ERROR]: 18-01-2024 14:11:28 - In Server: (InvalidNamespace) Invalid namespace specified 'lutfi_folkatechdb.'
+[ERROR]: 18-01-2024 14:11:28 - In Server: (InvalidNamespace) Invalid namespace specified 'lutfi_folkatechdb.'
+[ERROR]: 18-01-2024 14:16:19 - In Server: (InvalidNamespace) Invalid namespace specified 'lutfi_folkatechdb.'
+[ERROR]: 18-01-2024 14:16:19 - In Server: (InvalidNamespace) Invalid namespace specified 'lutfi_folkatechdb.'
+[ERROR]: 18-01-2024 14:16:19 - In Server: (InvalidNamespace) Invalid namespace specified 'lutfi_folkatechdb.'
+[ERROR]: 18-01-2024 14:18:17 - In Server: (InvalidNamespace) Invalid namespace specified 'lutfi_folkatechdb.'
+[ERROR]: 18-01-2024 14:18:17 - In Server: (InvalidNamespace) Invalid namespace specified 'lutfi_folkatechdb.'
+[ERROR]: 18-01-2024 14:18:17 - In Server: (InvalidNamespace) Invalid namespace specified 'lutfi_folkatechdb.'
+[ERROR]: 18-01-2024 14:23:29 - In Server: (InvalidNamespace) Invalid namespace specified 'lutfi_folkatechdb.'
+[ERROR]: 18-01-2024 14:23:29 - In Server: (InvalidNamespace) Invalid namespace specified 'lutfi_folkatechdb.'
+[ERROR]: 18-01-2024 14:23:29 - In Server: (InvalidNamespace) Invalid namespace specified 'lutfi_folkatechdb.'
+[INFO]: 18-01-2024 14:24:30 - Create user success
+[ERROR]: 18-01-2024 14:27:45 - In Server: database name cannot be empty
+[ERROR]: 18-01-2024 14:27:45 - In Server: database name cannot be empty
+[ERROR]: 18-01-2024 14:27:45 - In Server: database name cannot be empty
+[ERROR]: 18-01-2024 14:30:17 - In Server: (InvalidNamespace) Invalid namespace specified 'lutfi_folkatechdb.'
+[ERROR]: 18-01-2024 14:30:17 - In Server: (InvalidNamespace) Invalid namespace specified 'lutfi_folkatechdb.'
+[ERROR]: 18-01-2024 14:30:17 - In Server: (InvalidNamespace) Invalid namespace specified 'lutfi_folkatechdb.'
+[INFO]: 18-01-2024 14:33:13 - Create user success
+[ERROR]: 18-01-2024 14:36:15 - In Server: mongo: no documents in result
+[ERROR]: 18-01-2024 14:36:15 - error function params:  mongo: no documents in result
+[ERROR]: 18-01-2024 14:36:15 - In Server: mongo: no documents in result
+[ERROR]: 18-01-2024 14:36:15 - In Server: mongo: no documents in result
+[ERROR]: 18-01-2024 14:36:20 - In Server: mongo: no documents in result
+[ERROR]: 18-01-2024 14:36:20 - error function params:  mongo: no documents in result
+[ERROR]: 18-01-2024 14:36:20 - In Server: mongo: no documents in result
+[ERROR]: 18-01-2024 14:36:20 - In Server: mongo: no documents in result
+[ERROR]: 18-01-2024 14:36:22 - In Server: mongo: no documents in result
+[ERROR]: 18-01-2024 14:36:22 - error function params:  mongo: no documents in result
+[ERROR]: 18-01-2024 14:36:22 - In Server: mongo: no documents in result
+[ERROR]: 18-01-2024 14:36:22 - In Server: mongo: no documents in result
+[ERROR]: 18-01-2024 14:38:48 - In Server: mongo: no documents in result
+[ERROR]: 18-01-2024 14:38:48 - error function params:  mongo: no documents in result
+[ERROR]: 18-01-2024 14:38:48 - In Server: mongo: no documents in result
+[ERROR]: 18-01-2024 14:38:48 - In Server: mongo: no documents in result
+[INFO]: 18-01-2024 14:39:36 - Deleted user success
+[INFO]: 18-01-2024 14:43:52 - Udpated user success
+[ERROR]: 18-01-2024 14:44:01 - In Server: mongo: no documents in result
+[ERROR]: 18-01-2024 14:44:01 - error function params:  mongo: no documents in result
+[ERROR]: 18-01-2024 14:44:01 - In Server: mongo: no documents in result
+[ERROR]: 18-01-2024 14:44:01 - In Server: mongo: no documents in result
+[ERROR]: 18-01-2024 14:44:04 - In Server: mongo: no documents in result
+[ERROR]: 18-01-2024 14:44:04 - error function params:  mongo: no documents in result
+[ERROR]: 18-01-2024 14:44:04 - In Server: mongo: no documents in result
+[ERROR]: 18-01-2024 14:44:04 - In Server: mongo: no documents in result
+[ERROR]: 18-01-2024 14:47:25 - In Server: mongo: no documents in result
+[ERROR]: 18-01-2024 14:47:25 - error function params:  mongo: no documents in result
+[ERROR]: 18-01-2024 14:47:25 - In Server: mongo: no documents in result
+[ERROR]: 18-01-2024 14:47:25 - In Server: mongo: no documents in result
+[ERROR]: 18-01-2024 14:48:12 - In Server: mongo: no documents in result
+[ERROR]: 18-01-2024 14:48:12 - error function params:  mongo: no documents in result
+[ERROR]: 18-01-2024 14:48:12 - In Server: mongo: no documents in result
+[ERROR]: 18-01-2024 14:48:12 - In Server: mongo: no documents in result
+[INFO]: 18-01-2024 14:48:19 - view detail data: {"body":{"id":0,"username":"eeq","account_number":123,"email_address":"eeq@gmail.com","identity_number":"321","created":"0001-01-01T00:00:00Z","updated":"0001-01-01T00:00:00Z"},"code":200,"message":"Successfully"}
+[ERROR]: 18-01-2024 14:48:26 - In Server: mongo: no documents in result
+[ERROR]: 18-01-2024 14:48:26 - error function params:  mongo: no documents in result
+[ERROR]: 18-01-2024 14:48:26 - In Server: mongo: no documents in result
+[ERROR]: 18-01-2024 14:48:26 - In Server: mongo: no documents in result
+[ERROR]: 18-01-2024 14:48:28 - In Server: mongo: no documents in result
+[ERROR]: 18-01-2024 14:48:28 - error function params:  mongo: no documents in result
+[ERROR]: 18-01-2024 14:48:28 - In Server: mongo: no documents in result
+[ERROR]: 18-01-2024 14:48:28 - In Server: mongo: no documents in result
+[INFO]: 18-01-2024 14:52:45 - view detail data: {"body":{"id":9,"username":"eeq","account_number":123,"email_address":"eeq@gmail.com","identity_number":"321","created":"0001-01-01T00:00:00Z","updated":"0001-01-01T00:00:00Z"},"code":200,"message":"Successfully"}
+[INFO]: 18-01-2024 14:52:56 - Udpated user success
+[INFO]: 18-01-2024 14:53:03 - view detail data: {"body":{"id":9,"username":"udin","account_number":123,"email_address":"eeq@gmail.com","identity_number":"321","created":"0001-01-01T00:00:00Z","updated":"0001-01-01T00:00:00Z"},"code":200,"message":"Successfully"}
+[INFO]: 18-01-2024 14:53:28 - Udpated user success
+[INFO]: 18-01-2024 14:53:35 - view detail data: {"body":{"id":9,"username":"udin","account_number":123,"email_address":"eeq@gmail.com","identity_number":"321","created":"0001-01-01T00:00:00Z","updated":"0001-01-01T00:00:00Z"},"code":200,"message":"Successfully"}
+[ERROR]: 18-01-2024 16:03:37 - In Server: cannot marshal type primitive.D to a BSON Document: WriteNull can only write while positioned on a Element or Value but is positioned on a TopLevel
+[ERROR]: 18-01-2024 16:03:37 - In Server: cannot marshal type primitive.D to a BSON Document: WriteNull can only write while positioned on a Element or Value but is positioned on a TopLevel
+[ERROR]: 18-01-2024 16:03:50 - In Server: cannot marshal type primitive.D to a BSON Document: WriteNull can only write while positioned on a Element or Value but is positioned on a TopLevel
+[ERROR]: 18-01-2024 16:03:50 - In Server: cannot marshal type primitive.D to a BSON Document: WriteNull can only write while positioned on a Element or Value but is positioned on a TopLevel
+[ERROR]: 18-01-2024 16:08:21 - In Server: database name cannot be empty
+[INFO]: 18-01-2024 16:12:02 - Using MongoDB database: lutfi_folkatechdb
+[ERROR]: 18-01-2024 16:12:02 - In Server: database name cannot be empty
+[INFO]: 18-01-2024 16:13:15 - Using MongoDB database: lutfi_folkatechdb
+[ERROR]: 18-01-2024 16:13:15 - In Server: database name cannot be empty
+[INFO]: 18-01-2024 16:23:44 - Using MongoDB database: lutfi_folkatechdb
+[ERROR]: 18-01-2024 16:23:44 - In Server: cannot marshal type primitive.D to a BSON Document: WriteNull can only write while positioned on a Element or Value but is positioned on a TopLevel
+[INFO]: 18-01-2024 16:25:28 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 16:25:28 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 16:25:28 - view all data user
+[INFO]: 18-01-2024 16:25:46 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 16:25:46 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 16:25:46 - Deleted user success
+[INFO]: 18-01-2024 16:25:53 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 16:25:53 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 16:25:53 - view all data user
+[INFO]: 18-01-2024 16:26:22 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 16:26:22 - Using MongoDB database: lutfi_folkatechdb
+[ERROR]: 18-01-2024 16:26:22 - In Server: (BadValue) $and must be an array
+[INFO]: 18-01-2024 16:26:24 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 16:26:24 - Using MongoDB database: lutfi_folkatechdb
+[ERROR]: 18-01-2024 16:26:24 - In Server: (BadValue) $and must be an array
+[INFO]: 18-01-2024 16:26:29 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 16:26:29 - Using MongoDB database: lutfi_folkatechdb
+[ERROR]: 18-01-2024 16:26:29 - In Server: (BadValue) $and must be an array
+[INFO]: 18-01-2024 16:26:32 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 16:26:32 - Using MongoDB database: lutfi_folkatechdb
+[ERROR]: 18-01-2024 16:26:32 - In Server: (BadValue) $and must be an array
+[INFO]: 18-01-2024 16:26:34 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 16:26:34 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 16:26:34 - view all data user
+[INFO]: 18-01-2024 16:26:52 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 16:26:52 - Using MongoDB database: lutfi_folkatechdb
+[ERROR]: 18-01-2024 16:26:52 - In Server: (BadValue) $and must be an array
+[INFO]: 18-01-2024 16:30:05 - Using MongoDB database: lutfi_folkatechdb
+[ERROR]: 18-01-2024 16:30:05 - In Server: cannot marshal type []primitive.D to a BSON Document: WriteArray can only write a Array while positioned on a Element or Value but is positioned on a TopLevel
+[ERROR]: 18-01-2024 16:30:05 - In Server: cannot marshal type []primitive.D to a BSON Document: WriteArray can only write a Array while positioned on a Element or Value but is positioned on a TopLevel
+[INFO]: 18-01-2024 16:30:08 - Using MongoDB database: lutfi_folkatechdb
+[ERROR]: 18-01-2024 16:30:08 - In Server: cannot marshal type []primitive.D to a BSON Document: WriteArray can only write a Array while positioned on a Element or Value but is positioned on a TopLevel
+[ERROR]: 18-01-2024 16:30:08 - In Server: cannot marshal type []primitive.D to a BSON Document: WriteArray can only write a Array while positioned on a Element or Value but is positioned on a TopLevel
+[INFO]: 18-01-2024 16:30:37 - Using MongoDB database: lutfi_folkatechdb
+[ERROR]: 18-01-2024 16:30:37 - In Server: cannot marshal type []primitive.D to a BSON Document: WriteArray can only write a Array while positioned on a Element or Value but is positioned on a TopLevel
+[ERROR]: 18-01-2024 16:30:37 - In Server: cannot marshal type []primitive.D to a BSON Document: WriteArray can only write a Array while positioned on a Element or Value but is positioned on a TopLevel
+[INFO]: 18-01-2024 16:31:08 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 16:31:08 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 16:31:08 - view all data user
+[INFO]: 18-01-2024 16:31:28 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 16:31:28 - Using MongoDB database: lutfi_folkatechdb
+[ERROR]: 18-01-2024 16:31:28 - In Server: (BadValue) $and must be an array
+[INFO]: 18-01-2024 16:33:19 - Using MongoDB database: lutfi_folkatechdb
+[ERROR]: 18-01-2024 16:33:19 - In Server: cannot marshal type primitive.A to a BSON Document: WriteArray can only write a Array while positioned on a Element or Value but is positioned on a TopLevel
+[ERROR]: 18-01-2024 16:33:19 - In Server: cannot marshal type primitive.A to a BSON Document: WriteArray can only write a Array while positioned on a Element or Value but is positioned on a TopLevel
+[INFO]: 18-01-2024 16:33:29 - Using MongoDB database: lutfi_folkatechdb
+[ERROR]: 18-01-2024 16:33:29 - In Server: cannot marshal type primitive.A to a BSON Document: WriteArray can only write a Array while positioned on a Element or Value but is positioned on a TopLevel
+[ERROR]: 18-01-2024 16:33:29 - In Server: cannot marshal type primitive.A to a BSON Document: WriteArray can only write a Array while positioned on a Element or Value but is positioned on a TopLevel
+[INFO]: 18-01-2024 16:34:14 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 16:34:14 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 16:34:14 - view all data user
+[INFO]: 18-01-2024 16:34:30 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 16:34:30 - Using MongoDB database: lutfi_folkatechdb
+[ERROR]: 18-01-2024 16:34:30 - In Server: (BadValue) $and must be an array
+[INFO]: 18-01-2024 16:34:32 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 16:34:32 - Using MongoDB database: lutfi_folkatechdb
+[ERROR]: 18-01-2024 16:34:32 - In Server: (BadValue) $and must be an array
+[INFO]: 18-01-2024 16:35:36 - Using MongoDB database: lutfi_folkatechdb
+[ERROR]: 18-01-2024 16:35:36 - In Server: (BadValue) $or/$and/$nor entries need to be full objects
+[ERROR]: 18-01-2024 16:35:36 - In Server: (BadValue) $or/$and/$nor entries need to be full objects
+[INFO]: 18-01-2024 16:35:45 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 16:35:45 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 16:35:45 - view all data user
+[INFO]: 18-01-2024 16:36:43 - Using MongoDB database: lutfi_folkatechdb
+[ERROR]: 18-01-2024 16:36:43 - In Server: (BadValue) $or/$and/$nor entries need to be full objects
+[ERROR]: 18-01-2024 16:36:43 - In Server: (BadValue) $or/$and/$nor entries need to be full objects
+[INFO]: 18-01-2024 16:46:47 - Using MongoDB database: lutfi_folkatechdb
+[ERROR]: 18-01-2024 16:46:47 - Error querying MongoDB: (Location40352) FieldPath cannot be constructed with empty string
+[ERROR]: 18-01-2024 16:46:47 - In Server: (Location40352) FieldPath cannot be constructed with empty string
+[INFO]: 18-01-2024 16:46:58 - Using MongoDB database: lutfi_folkatechdb
+[ERROR]: 18-01-2024 16:46:58 - Error querying MongoDB: (Location40352) FieldPath cannot be constructed with empty string
+[ERROR]: 18-01-2024 16:46:58 - In Server: (Location40352) FieldPath cannot be constructed with empty string
+[INFO]: 18-01-2024 16:49:05 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 16:49:05 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 16:49:05 - view all data user
+[INFO]: 18-01-2024 16:49:14 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 16:49:14 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 16:49:14 - view all data user
+[INFO]: 18-01-2024 16:49:21 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 16:49:21 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 16:49:21 - view all data user
+[INFO]: 18-01-2024 16:49:43 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 16:49:43 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 16:49:43 - view all data user
+[INFO]: 18-01-2024 16:49:55 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 16:49:55 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 16:49:55 - view all data user
+[INFO]: 18-01-2024 16:49:59 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 16:49:59 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 16:49:59 - view all data user
+[INFO]: 18-01-2024 16:50:01 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 16:50:01 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 16:50:01 - view all data user
+[INFO]: 18-01-2024 16:50:48 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 16:50:48 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 16:50:48 - view all data user
+[INFO]: 18-01-2024 16:50:55 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 16:50:55 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 16:50:56 - view all data user
+[INFO]: 18-01-2024 16:51:19 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 16:51:19 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 16:51:19 - view all data user
+[INFO]: 18-01-2024 16:52:46 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 16:52:46 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 16:52:46 - view all data user
+[INFO]: 18-01-2024 16:55:04 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 16:55:05 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 16:55:06 - view all data user
+[INFO]: 18-01-2024 16:55:42 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 16:55:42 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 16:55:42 - view all data user
+[INFO]: 18-01-2024 16:56:46 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 16:56:46 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 16:56:46 - view all data user
+[INFO]: 18-01-2024 16:56:49 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 16:56:49 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 16:56:49 - view all data user
+[INFO]: 18-01-2024 16:56:51 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 16:56:51 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 16:56:51 - view all data user
+[INFO]: 18-01-2024 16:57:06 - Using MongoDB database: lutfi_folkatechdb
+[ERROR]: 18-01-2024 16:57:06 - Error decoding MongoDB cursor: error decoding key accountnumber: cannot decode 32-bit integer into a string type
+[ERROR]: 18-01-2024 16:57:06 - In Server: error decoding key accountnumber: cannot decode 32-bit integer into a string type
+[INFO]: 18-01-2024 16:57:11 - Using MongoDB database: lutfi_folkatechdb
+[ERROR]: 18-01-2024 16:57:11 - Error decoding MongoDB cursor: error decoding key accountnumber: cannot decode 32-bit integer into a string type
+[ERROR]: 18-01-2024 16:57:11 - In Server: error decoding key accountnumber: cannot decode 32-bit integer into a string type
+[INFO]: 18-01-2024 16:57:22 - Using MongoDB database: lutfi_folkatechdb
+[ERROR]: 18-01-2024 16:57:22 - Error decoding MongoDB cursor: error decoding key accountnumber: cannot decode 32-bit integer into a string type
+[ERROR]: 18-01-2024 16:57:22 - In Server: error decoding key accountnumber: cannot decode 32-bit integer into a string type
+[INFO]: 18-01-2024 16:57:24 - Using MongoDB database: lutfi_folkatechdb
+[ERROR]: 18-01-2024 16:57:24 - Error decoding MongoDB cursor: error decoding key accountnumber: cannot decode 32-bit integer into a string type
+[ERROR]: 18-01-2024 16:57:24 - In Server: error decoding key accountnumber: cannot decode 32-bit integer into a string type
+[INFO]: 18-01-2024 16:57:27 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 16:57:27 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 16:57:27 - view all data user
+[INFO]: 18-01-2024 16:57:30 - Using MongoDB database: lutfi_folkatechdb
+[ERROR]: 18-01-2024 16:57:30 - Error decoding MongoDB cursor: error decoding key accountnumber: cannot decode 32-bit integer into a string type
+[ERROR]: 18-01-2024 16:57:30 - In Server: error decoding key accountnumber: cannot decode 32-bit integer into a string type
+[INFO]: 18-01-2024 16:58:11 - Using MongoDB database: lutfi_folkatechdb
+[ERROR]: 18-01-2024 16:58:11 - Error decoding MongoDB cursor: error decoding key accountnumber: cannot decode 32-bit integer into a string type
+[ERROR]: 18-01-2024 16:58:11 - In Server: error decoding key accountnumber: cannot decode 32-bit integer into a string type
+[INFO]: 18-01-2024 16:58:28 - Using MongoDB database: lutfi_folkatechdb
+[ERROR]: 18-01-2024 16:58:28 - Error decoding MongoDB cursor: error decoding key accountnumber: cannot decode 32-bit integer into a string type
+[ERROR]: 18-01-2024 16:58:28 - In Server: error decoding key accountnumber: cannot decode 32-bit integer into a string type
+[ERROR]: 18-01-2024 16:58:36 - In Server: Oopss server someting wrongjson: cannot unmarshal number into Go struct field User.account_number of type string
+[INFO]: 18-01-2024 16:58:43 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 16:58:44 - Create user success
+[INFO]: 18-01-2024 16:58:50 - Using MongoDB database: lutfi_folkatechdb
+[ERROR]: 18-01-2024 16:58:51 - Error decoding MongoDB cursor: error decoding key accountnumber: cannot decode 32-bit integer into a string type
+[ERROR]: 18-01-2024 16:58:51 - In Server: error decoding key accountnumber: cannot decode 32-bit integer into a string type
+[INFO]: 18-01-2024 16:58:54 - Using MongoDB database: lutfi_folkatechdb
+[ERROR]: 18-01-2024 16:58:54 - Error decoding MongoDB cursor: error decoding key accountnumber: cannot decode 32-bit integer into a string type
+[ERROR]: 18-01-2024 16:58:54 - In Server: error decoding key accountnumber: cannot decode 32-bit integer into a string type
+[INFO]: 18-01-2024 16:59:44 - Using MongoDB database: lutfi_folkatechdb
+[ERROR]: 18-01-2024 16:59:44 - Error decoding MongoDB cursor: error decoding key accountnumber: cannot decode string into an integer type
+[ERROR]: 18-01-2024 16:59:44 - In Server: error decoding key accountnumber: cannot decode string into an integer type
+[INFO]: 18-01-2024 16:59:46 - Using MongoDB database: lutfi_folkatechdb
+[ERROR]: 18-01-2024 16:59:46 - Error decoding MongoDB cursor: error decoding key accountnumber: cannot decode string into an integer type
+[ERROR]: 18-01-2024 16:59:46 - In Server: error decoding key accountnumber: cannot decode string into an integer type
+[INFO]: 18-01-2024 16:59:57 - Using MongoDB database: lutfi_folkatechdb
+[ERROR]: 18-01-2024 16:59:57 - Error decoding MongoDB cursor: error decoding key accountnumber: cannot decode string into an integer type
+[ERROR]: 18-01-2024 16:59:57 - In Server: error decoding key accountnumber: cannot decode string into an integer type
+[INFO]: 18-01-2024 17:01:01 - Using MongoDB database: lutfi_folkatechdb
+[ERROR]: 18-01-2024 17:01:01 - Error decoding MongoDB cursor: error decoding key accountnumber: cannot decode string into an integer type
+[ERROR]: 18-01-2024 17:01:01 - In Server: error decoding key accountnumber: cannot decode string into an integer type
+[INFO]: 18-01-2024 17:01:08 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 17:01:08 - view detail data: {"body":{"id":9,"username":"udin","account_number":123,"email_address":"eeq@gmail.com","identity_number":"321","created":"0001-01-01T00:00:00Z","updated":"0001-01-01T00:00:00Z"},"code":200,"message":"Successfully"}
+[INFO]: 18-01-2024 17:01:19 - Using MongoDB database: lutfi_folkatechdb
+[ERROR]: 18-01-2024 17:01:19 - Error decoding MongoDB cursor: error decoding key accountnumber: cannot decode string into an integer type
+[ERROR]: 18-01-2024 17:01:19 - In Server: error decoding key accountnumber: cannot decode string into an integer type
+[ERROR]: 18-01-2024 17:02:58 - Failed to connect to MongoDB: error parsing uri: lookup _mongodb._tcp.cluster0.stfo9al.mongodb.net on 192.168.1.1:53: no such host
+[INFO]: 18-01-2024 17:03:22 - Using MongoDB database: lutfi_folkatechdb
+[ERROR]: 18-01-2024 17:03:22 - Error decoding MongoDB cursor: error decoding key accountnumber: cannot decode 32-bit integer into a string type
+[ERROR]: 18-01-2024 17:03:22 - In Server: error decoding key accountnumber: cannot decode 32-bit integer into a string type
+[INFO]: 18-01-2024 17:04:44 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 17:04:44 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 17:04:44 - view all data user
+[INFO]: 18-01-2024 17:04:51 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 17:04:51 - Create user success
+[INFO]: 18-01-2024 17:04:56 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 17:04:56 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 17:04:56 - view all data user
+[INFO]: 18-01-2024 17:05:10 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 17:05:10 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 17:05:10 - view all data user
+[INFO]: 18-01-2024 17:05:12 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 17:05:12 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 17:05:13 - view all data user
+[INFO]: 18-01-2024 17:06:00 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 17:06:00 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 17:06:00 - view all data user
+[INFO]: 18-01-2024 17:10:48 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 17:10:48 - Create user success
+[INFO]: 18-01-2024 17:10:53 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 17:10:53 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 17:10:53 - view all data user
+[INFO]: 18-01-2024 17:11:00 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 17:11:00 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 17:11:00 - view all data user
+[INFO]: 18-01-2024 17:11:38 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 17:11:38 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 17:11:38 - view all data user
+[INFO]: 18-01-2024 17:11:40 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 17:11:40 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 17:11:40 - view all data user
+[INFO]: 18-01-2024 17:11:44 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 17:11:44 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 17:11:44 - view all data user
+[INFO]: 18-01-2024 17:11:46 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 17:11:46 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 17:11:46 - view all data user
+[INFO]: 18-01-2024 17:12:01 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 17:12:01 - Create user success
+[INFO]: 18-01-2024 17:12:06 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 17:12:06 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 17:12:06 - view all data user
+[INFO]: 18-01-2024 17:12:11 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 17:12:11 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 17:12:11 - view all data user
+[INFO]: 18-01-2024 17:12:13 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 17:12:13 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 17:12:13 - view all data user
+[INFO]: 18-01-2024 17:12:16 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 17:12:16 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 17:12:16 - view all data user
+[ERROR]: 18-01-2024 17:30:44 - In Server: UserService is not initialized
+[ERROR]: 18-01-2024 17:33:09 - In Server: UserService is not initialized
+[ERROR]: 18-01-2024 17:33:10 - In Server: UserService is not initialized
+[ERROR]: 18-01-2024 17:36:43 - In Server: UserService is not initialized
+[ERROR]: 18-01-2024 17:37:35 - In Server: UserService is not initialized
+[ERROR]: 18-01-2024 17:37:37 - In Server: UserService is not initialized
+[ERROR]: 18-01-2024 17:37:38 - In Server: UserService is not initialized
+[ERROR]: 18-01-2024 17:37:40 - In Server: UserService is not initialized
+[INFO]: 18-01-2024 17:37:55 - Using MongoDB database: lutfi_folkatechdb
+[ERROR]: 18-01-2024 17:37:55 - In Server: mongo: no documents in result
+[ERROR]: 18-01-2024 17:37:55 - error function params:  mongo: no documents in result
+[ERROR]: 18-01-2024 17:37:55 - In Server: mongo: no documents in result
+[ERROR]: 18-01-2024 17:37:55 - In Server: mongo: no documents in result
+[INFO]: 18-01-2024 17:37:58 - Using MongoDB database: lutfi_folkatechdb
+[ERROR]: 18-01-2024 17:37:58 - In Server: mongo: no documents in result
+[ERROR]: 18-01-2024 17:37:58 - error function params:  mongo: no documents in result
+[ERROR]: 18-01-2024 17:37:58 - In Server: mongo: no documents in result
+[ERROR]: 18-01-2024 17:37:58 - In Server: mongo: no documents in result
+[INFO]: 18-01-2024 17:38:01 - Using MongoDB database: lutfi_folkatechdb
+[ERROR]: 18-01-2024 17:38:01 - In Server: mongo: no documents in result
+[ERROR]: 18-01-2024 17:38:01 - error function params:  mongo: no documents in result
+[ERROR]: 18-01-2024 17:38:01 - In Server: mongo: no documents in result
+[ERROR]: 18-01-2024 17:38:01 - In Server: mongo: no documents in result
+[INFO]: 18-01-2024 17:38:02 - Using MongoDB database: lutfi_folkatechdb
+[ERROR]: 18-01-2024 17:38:02 - In Server: mongo: no documents in result
+[ERROR]: 18-01-2024 17:38:02 - error function params:  mongo: no documents in result
+[ERROR]: 18-01-2024 17:38:02 - In Server: mongo: no documents in result
+[ERROR]: 18-01-2024 17:38:02 - In Server: mongo: no documents in result
+[INFO]: 18-01-2024 17:38:03 - Using MongoDB database: lutfi_folkatechdb
+[ERROR]: 18-01-2024 17:38:03 - In Server: mongo: no documents in result
+[ERROR]: 18-01-2024 17:38:03 - error function params:  mongo: no documents in result
+[ERROR]: 18-01-2024 17:38:03 - In Server: mongo: no documents in result
+[ERROR]: 18-01-2024 17:38:03 - In Server: mongo: no documents in result
+[INFO]: 18-01-2024 17:38:57 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 17:38:57 - view detail data: {"body":{"id":12,"username":"eeq","account_number":"123","email_address":"eeq@gmail.com","identity_number":"321","created":"0001-01-01T00:00:00Z","updated":"0001-01-01T00:00:00Z"},"code":200,"message":"Successfully"}
+[ERROR]: 18-01-2024 17:39:24 - In Server: Oopss server someting wrongjson: cannot unmarshal number into Go struct field AuthLogin.account_number of type string
+[ERROR]: 18-01-2024 17:39:35 - In Server: Oopss server someting wrongjson: cannot unmarshal number into Go struct field AuthLogin.account_number of type string
+[ERROR]: 18-01-2024 17:42:37 - In Server: UserService is not initialized
+[ERROR]: 18-01-2024 17:42:38 - In Server: UserService is not initialized
+[ERROR]: 18-01-2024 17:50:54 - In Server: UserService is not initialized
+[ERROR]: 18-01-2024 17:51:13 - In Server: UserService is not initialized
+[ERROR]: 18-01-2024 17:51:35 - In Server: UserService is not initialized
+[INFO]: 18-01-2024 17:54:30 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 17:54:30 - login: {"body":{"token":{"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JpemVkIjp0cnVlLCJlbWFpbCI6ImVlcUBnbWFpbC5jb20iLCJleHAiOjE3MDU1ODI0NzAsInVzZXJfaWQiOiJcdTAwMGMiLCJ1c2VybmFtZSI6ImVlcSJ9.4BjLPSM-kIYdg-_5nb1Ig6wIN-3dbftXYzROX2EXvdY","refresh_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JpemVkIjp0cnVlLCJlbWFpbCI6ImVlcUBnbWFpbC5jb20iLCJleHAiOjE3MDU1ODI0NzAsInVzZXJfaWQiOiJcdTAwMGMiLCJ1c2VybmFtZSI6ImVlcSJ9.4BjLPSM-kIYdg-_5nb1Ig6wIN-3dbftXYzROX2EXvdY"},"user":{"id":0,"username":"eeq","account_number":"","email_address":"eeq@gmail.com","identity_number":"","created":"0001-01-01T00:00:00Z","updated":"0001-01-01T00:00:00Z"}},"code":200,"message":"Successfully"}
+[INFO]: 18-01-2024 17:55:52 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 17:55:52 - created user: {"body":{"id":0,"username":"eeq","account_number":"123","email_address":"e@gmail.com","identity_number":"321","created":"0001-01-01T00:00:00Z","updated":"0001-01-01T00:00:00Z"},"code":201,"message":"Successfully"}
+[INFO]: 18-01-2024 18:00:25 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 18:00:26 - view detail data: {"body":{"id":12,"username":"eeq","account_number":"123","email_address":"eeq@gmail.com","identity_number":"321","created":"0001-01-01T00:00:00Z","updated":"0001-01-01T00:00:00Z"},"code":200,"message":"Successfully"}
+[ERROR]: 18-01-2024 18:00:39 - In Server: Oopss server someting wrongjson: cannot unmarshal number into Go struct field User.account_number of type string
+[INFO]: 18-01-2024 18:00:51 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 18:00:51 - Udpated user success
+[INFO]: 18-01-2024 18:01:34 - Using MongoDB database: lutfi_folkatechdb
+[ERROR]: 18-01-2024 18:01:42 - In Server: mongo: no documents in result
+[ERROR]: 18-01-2024 18:01:42 - In Server: wrong username or password
+[INFO]: 18-01-2024 18:01:55 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 18:01:55 - view detail data: {"body":{"id":12,"username":"udin","account_number":"123","email_address":"eko@gmail.com","identity_number":"321","created":"0001-01-01T00:00:00Z","updated":"0001-01-01T00:00:00Z"},"code":200,"message":"Successfully"}
+[ERROR]: 18-01-2024 18:02:06 - In Server: wrong username or password
+[ERROR]: 18-01-2024 18:02:07 - In Server: wrong username or password
+[ERROR]: 18-01-2024 18:02:09 - In Server: wrong username or password
+[ERROR]: 18-01-2024 18:02:10 - In Server: wrong username or password
+[ERROR]: 18-01-2024 18:02:11 - In Server: wrong username or password
+[ERROR]: 18-01-2024 18:02:13 - In Server: wrong username or password
+[ERROR]: 18-01-2024 18:02:58 - In Server: wrong email or password
+[INFO]: 18-01-2024 18:03:08 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 18:03:08 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 18:03:08 - view all data user
+[INFO]: 18-01-2024 18:03:15 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 18:03:15 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 18:03:15 - view all data user
+[ERROR]: 18-01-2024 18:03:26 - In Server: wrong email or password
+[ERROR]: 18-01-2024 18:03:27 - In Server: wrong email or password
+[INFO]: 18-01-2024 18:04:35 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 18:04:35 - created user: {"body":{"id":0,"username":"eeq","account_number":"123","email_address":"ee@gmail.com","identity_number":"321","created":"0001-01-01T00:00:00Z","updated":"0001-01-01T00:00:00Z"},"code":201,"message":"Successfully"}
+[INFO]: 18-01-2024 18:04:42 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 18:04:43 - login: {"body":{"token":{"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JpemVkIjp0cnVlLCJlbWFpbCI6ImVrb0BnbWFpbC5jb20iLCJleHAiOjE3MDU1ODMwODMsInVzZXJfaWQiOiJcdTAwMGMiLCJ1c2VybmFtZSI6InVkaW4ifQ.A7FWN4lovT1scF_l2uNQQuqXp8O7APM1dk99qXzacBc","refresh_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JpemVkIjp0cnVlLCJlbWFpbCI6ImVrb0BnbWFpbC5jb20iLCJleHAiOjE3MDU1ODMwODMsInVzZXJfaWQiOiJcdTAwMGMiLCJ1c2VybmFtZSI6InVkaW4ifQ.A7FWN4lovT1scF_l2uNQQuqXp8O7APM1dk99qXzacBc"},"user":{"id":0,"username":"udin","account_number":"123","email_address":"eko@gmail.com","identity_number":"321","created":"0001-01-01T00:00:00Z","updated":"0001-01-01T00:00:00Z"}},"code":200,"message":"Successfully"}
+[INFO]: 18-01-2024 18:04:51 - login: {"body":{"token":{"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JpemVkIjp0cnVlLCJlbWFpbCI6ImVrb0BnbWFpbC5jb20iLCJleHAiOjE3MDU1ODMwOTEsInVzZXJfaWQiOiJcdTAwMGMiLCJ1c2VybmFtZSI6InVkaW4ifQ.HdicUsbLF4NZqvrhCln1GPckYdx2_9OPrA_3j9XZCxo","refresh_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JpemVkIjp0cnVlLCJlbWFpbCI6ImVrb0BnbWFpbC5jb20iLCJleHAiOjE3MDU1ODMwOTEsInVzZXJfaWQiOiJcdTAwMGMiLCJ1c2VybmFtZSI6InVkaW4ifQ.HdicUsbLF4NZqvrhCln1GPckYdx2_9OPrA_3j9XZCxo"},"user":{"id":0,"username":"udin","account_number":"123","email_address":"eko@gmail.com","identity_number":"321","created":"0001-01-01T00:00:00Z","updated":"0001-01-01T00:00:00Z"}},"code":200,"message":"Successfully"}
+[INFO]: 18-01-2024 18:04:56 - login: {"body":{"token":{"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JpemVkIjp0cnVlLCJlbWFpbCI6ImVrb0BnbWFpbC5jb20iLCJleHAiOjE3MDU1ODMwOTYsInVzZXJfaWQiOiJcdTAwMGMiLCJ1c2VybmFtZSI6InVkaW4ifQ.RMOBpjg6We4YsQ2bsuRSFq5qCDeW4e6lVokCnRSqShI","refresh_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JpemVkIjp0cnVlLCJlbWFpbCI6ImVrb0BnbWFpbC5jb20iLCJleHAiOjE3MDU1ODMwOTYsInVzZXJfaWQiOiJcdTAwMGMiLCJ1c2VybmFtZSI6InVkaW4ifQ.RMOBpjg6We4YsQ2bsuRSFq5qCDeW4e6lVokCnRSqShI"},"user":{"id":0,"username":"udin","account_number":"123","email_address":"eko@gmail.com","identity_number":"321","created":"0001-01-01T00:00:00Z","updated":"0001-01-01T00:00:00Z"}},"code":200,"message":"Successfully"}
+[INFO]: 18-01-2024 18:05:00 - login: {"body":{"token":{"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JpemVkIjp0cnVlLCJlbWFpbCI6ImVrb0BnbWFpbC5jb20iLCJleHAiOjE3MDU1ODMxMDAsInVzZXJfaWQiOiJcdTAwMGMiLCJ1c2VybmFtZSI6InVkaW4ifQ.Mh8FkLH2G0zSeZhy0v2rcxgCga7PrbcJwItIZjvh__U","refresh_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JpemVkIjp0cnVlLCJlbWFpbCI6ImVrb0BnbWFpbC5jb20iLCJleHAiOjE3MDU1ODMxMDAsInVzZXJfaWQiOiJcdTAwMGMiLCJ1c2VybmFtZSI6InVkaW4ifQ.Mh8FkLH2G0zSeZhy0v2rcxgCga7PrbcJwItIZjvh__U"},"user":{"id":0,"username":"udin","account_number":"123","email_address":"eko@gmail.com","identity_number":"321","created":"0001-01-01T00:00:00Z","updated":"0001-01-01T00:00:00Z"}},"code":200,"message":"Successfully"}
+[INFO]: 18-01-2024 18:05:14 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 18:05:14 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 18:05:14 - view all data user
+[INFO]: 18-01-2024 18:05:27 - login: {"body":{"token":{"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JpemVkIjp0cnVlLCJlbWFpbCI6ImVrb0BnbWFpbC5jb20iLCJleHAiOjE3MDU1ODMxMjcsInVzZXJfaWQiOiJcdTAwMGMiLCJ1c2VybmFtZSI6InVkaW4ifQ.IakF2VMvexflbY9ngcLhSR7an7Zj56NVDyRJ7bvMZ7U","refresh_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JpemVkIjp0cnVlLCJlbWFpbCI6ImVrb0BnbWFpbC5jb20iLCJleHAiOjE3MDU1ODMxMjcsInVzZXJfaWQiOiJcdTAwMGMiLCJ1c2VybmFtZSI6InVkaW4ifQ.IakF2VMvexflbY9ngcLhSR7an7Zj56NVDyRJ7bvMZ7U"},"user":{"id":0,"username":"udin","account_number":"123","email_address":"eko@gmail.com","identity_number":"321","created":"0001-01-01T00:00:00Z","updated":"0001-01-01T00:00:00Z"}},"code":200,"message":"Successfully"}
+[INFO]: 18-01-2024 18:05:29 - login: {"body":{"token":{"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JpemVkIjp0cnVlLCJlbWFpbCI6ImVrb0BnbWFpbC5jb20iLCJleHAiOjE3MDU1ODMxMjksInVzZXJfaWQiOiJcdTAwMGMiLCJ1c2VybmFtZSI6InVkaW4ifQ.vtUW_hvxpjCCB9qyFC1wC9Hw17TgPz1rK1HechdnZwg","refresh_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JpemVkIjp0cnVlLCJlbWFpbCI6ImVrb0BnbWFpbC5jb20iLCJleHAiOjE3MDU1ODMxMjksInVzZXJfaWQiOiJcdTAwMGMiLCJ1c2VybmFtZSI6InVkaW4ifQ.vtUW_hvxpjCCB9qyFC1wC9Hw17TgPz1rK1HechdnZwg"},"user":{"id":0,"username":"udin","account_number":"123","email_address":"eko@gmail.com","identity_number":"321","created":"0001-01-01T00:00:00Z","updated":"0001-01-01T00:00:00Z"}},"code":200,"message":"Successfully"}
+[INFO]: 18-01-2024 18:05:31 - login: {"body":{"token":{"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JpemVkIjp0cnVlLCJlbWFpbCI6ImVrb0BnbWFpbC5jb20iLCJleHAiOjE3MDU1ODMxMzEsInVzZXJfaWQiOiJcdTAwMGMiLCJ1c2VybmFtZSI6InVkaW4ifQ.2KnpoUHyGBNE2F8mKolUFq7g5Det6NC1_sZG6zmkPOk","refresh_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JpemVkIjp0cnVlLCJlbWFpbCI6ImVrb0BnbWFpbC5jb20iLCJleHAiOjE3MDU1ODMxMzEsInVzZXJfaWQiOiJcdTAwMGMiLCJ1c2VybmFtZSI6InVkaW4ifQ.2KnpoUHyGBNE2F8mKolUFq7g5Det6NC1_sZG6zmkPOk"},"user":{"id":0,"username":"udin","account_number":"123","email_address":"eko@gmail.com","identity_number":"321","created":"0001-01-01T00:00:00Z","updated":"0001-01-01T00:00:00Z"}},"code":200,"message":"Successfully"}
+[INFO]: 18-01-2024 18:05:39 - login: {"body":{"token":{"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JpemVkIjp0cnVlLCJlbWFpbCI6ImVrb0BnbWFpbC5jb20iLCJleHAiOjE3MDU1ODMxMzksInVzZXJfaWQiOiJcdTAwMGMiLCJ1c2VybmFtZSI6InVkaW4ifQ.WKEpIwACQNdQ_s6MfJzUFNFZLY9ysYlwnA53bouNaKQ","refresh_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JpemVkIjp0cnVlLCJlbWFpbCI6ImVrb0BnbWFpbC5jb20iLCJleHAiOjE3MDU1ODMxMzksInVzZXJfaWQiOiJcdTAwMGMiLCJ1c2VybmFtZSI6InVkaW4ifQ.WKEpIwACQNdQ_s6MfJzUFNFZLY9ysYlwnA53bouNaKQ"},"user":{"id":0,"username":"udin","account_number":"123","email_address":"eko@gmail.com","identity_number":"321","created":"0001-01-01T00:00:00Z","updated":"0001-01-01T00:00:00Z"}},"code":200,"message":"Successfully"}
+[INFO]: 18-01-2024 18:06:17 - login: {"body":{"token":{"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JpemVkIjp0cnVlLCJlbWFpbCI6ImVrb0BnbWFpbC5jb20iLCJleHAiOjE3MDU1ODMxNzcsInVzZXJfaWQiOiJcdTAwMGMiLCJ1c2VybmFtZSI6InVkaW4ifQ.KYEx85wT8j_xSb-o-dUFISqjzJ1NdcrH0hBZOJlLcUs","refresh_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JpemVkIjp0cnVlLCJlbWFpbCI6ImVrb0BnbWFpbC5jb20iLCJleHAiOjE3MDU1ODMxNzcsInVzZXJfaWQiOiJcdTAwMGMiLCJ1c2VybmFtZSI6InVkaW4ifQ.KYEx85wT8j_xSb-o-dUFISqjzJ1NdcrH0hBZOJlLcUs"},"user":{"id":0,"username":"udin","account_number":"123","email_address":"eko@gmail.com","identity_number":"321","created":"0001-01-01T00:00:00Z","updated":"0001-01-01T00:00:00Z"}},"code":200,"message":"Successfully"}
+[INFO]: 18-01-2024 18:06:29 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 18:06:29 - created user: {"body":{"id":0,"username":"eeq","account_number":"123","email_address":"eke@gmail.com","identity_number":"321","created":"0001-01-01T00:00:00Z","updated":"0001-01-01T00:00:00Z"},"code":201,"message":"Successfully"}
+[INFO]: 18-01-2024 18:06:35 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 18:06:35 - login: {"body":{"token":{"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JpemVkIjp0cnVlLCJlbWFpbCI6ImVlQGdtYWlsLmNvbSIsImV4cCI6MTcwNTU4MzE5NSwidXNlcl9pZCI6Ilx1MDAwZiIsInVzZXJuYW1lIjoiZWVxIn0.XYsK6TIudFnqxwm8zFTPNpWKPL1dS9IZxw9k7XMvTko","refresh_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JpemVkIjp0cnVlLCJlbWFpbCI6ImVlQGdtYWlsLmNvbSIsImV4cCI6MTcwNTU4MzE5NSwidXNlcl9pZCI6Ilx1MDAwZiIsInVzZXJuYW1lIjoiZWVxIn0.XYsK6TIudFnqxwm8zFTPNpWKPL1dS9IZxw9k7XMvTko"},"user":{"id":0,"username":"eeq","account_number":"123","email_address":"ee@gmail.com","identity_number":"321","created":"0001-01-01T00:00:00Z","updated":"0001-01-01T00:00:00Z"}},"code":200,"message":"Successfully"}
+[INFO]: 18-01-2024 18:06:55 - login: {"body":{"token":{"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JpemVkIjp0cnVlLCJlbWFpbCI6ImVlQGdtYWlsLmNvbSIsImV4cCI6MTcwNTU4MzIxNSwidXNlcl9pZCI6Ilx1MDAwZiIsInVzZXJuYW1lIjoiZWVxIn0.FeUFCS-MbqMXMiVHwjknfefsEik9d6uz19OCHIWBF1s","refresh_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JpemVkIjp0cnVlLCJlbWFpbCI6ImVlQGdtYWlsLmNvbSIsImV4cCI6MTcwNTU4MzIxNSwidXNlcl9pZCI6Ilx1MDAwZiIsInVzZXJuYW1lIjoiZWVxIn0.FeUFCS-MbqMXMiVHwjknfefsEik9d6uz19OCHIWBF1s"},"user":{"id":0,"username":"eeq","account_number":"123","email_address":"ee@gmail.com","identity_number":"321","created":"0001-01-01T00:00:00Z","updated":"0001-01-01T00:00:00Z"}},"code":200,"message":"Successfully"}
+[INFO]: 18-01-2024 18:07:08 - login: {"body":{"token":{"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JpemVkIjp0cnVlLCJlbWFpbCI6ImVlQGdtYWlsLmNvbSIsImV4cCI6MTcwNTU4MzIyOCwidXNlcl9pZCI6Ilx1MDAwZiIsInVzZXJuYW1lIjoiZWVxIn0.1PpVX_xKcZpEgvseMdbEBXw20jJPB_dMcPeyL927R2Y","refresh_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JpemVkIjp0cnVlLCJlbWFpbCI6ImVlQGdtYWlsLmNvbSIsImV4cCI6MTcwNTU4MzIyOCwidXNlcl9pZCI6Ilx1MDAwZiIsInVzZXJuYW1lIjoiZWVxIn0.1PpVX_xKcZpEgvseMdbEBXw20jJPB_dMcPeyL927R2Y"},"user":{"id":0,"username":"eeq","account_number":"123","email_address":"ee@gmail.com","identity_number":"321","created":"0001-01-01T00:00:00Z","updated":"0001-01-01T00:00:00Z"}},"code":200,"message":"Successfully"}
+[INFO]: 18-01-2024 18:07:16 - login: {"body":{"token":{"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JpemVkIjp0cnVlLCJlbWFpbCI6ImVlQGdtYWlsLmNvbSIsImV4cCI6MTcwNTU4MzIzNiwidXNlcl9pZCI6Ilx1MDAwZiIsInVzZXJuYW1lIjoiZWVxIn0.So5bf2sn6GXNIfAE9z5Ovkn4cpqn91mxneLOPSvH72k","refresh_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JpemVkIjp0cnVlLCJlbWFpbCI6ImVlQGdtYWlsLmNvbSIsImV4cCI6MTcwNTU4MzIzNiwidXNlcl9pZCI6Ilx1MDAwZiIsInVzZXJuYW1lIjoiZWVxIn0.So5bf2sn6GXNIfAE9z5Ovkn4cpqn91mxneLOPSvH72k"},"user":{"id":0,"username":"eeq","account_number":"123","email_address":"ee@gmail.com","identity_number":"321","created":"0001-01-01T00:00:00Z","updated":"0001-01-01T00:00:00Z"}},"code":200,"message":"Successfully"}
+[INFO]: 18-01-2024 18:08:34 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 18:08:34 - created user: {"body":{"username":"eeq","account_number":"123","email_address":"zz@gmail.com","identity_number":"321","created":"0001-01-01T00:00:00Z","updated":"0001-01-01T00:00:00Z"},"code":201,"message":"Successfully"}
+[INFO]: 18-01-2024 18:08:47 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 18:08:47 - login: {"body":{"token":{"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JpemVkIjp0cnVlLCJlbWFpbCI6ImVrZUBnbWFpbC5jb20iLCJleHAiOjE3MDU1ODMzMjcsInVzZXJfaWQiOiJcdTAwMTAiLCJ1c2VybmFtZSI6ImVlcSJ9.Ih3eHkEVE-nF_NCYixqWVWlova41OR-UagdG85-uwAI","refresh_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JpemVkIjp0cnVlLCJlbWFpbCI6ImVrZUBnbWFpbC5jb20iLCJleHAiOjE3MDU1ODMzMjcsInVzZXJfaWQiOiJcdTAwMTAiLCJ1c2VybmFtZSI6ImVlcSJ9.Ih3eHkEVE-nF_NCYixqWVWlova41OR-UagdG85-uwAI"},"user":{"id":0,"username":"eeq","account_number":"123","email_address":"eke@gmail.com","identity_number":"321","created":"0001-01-01T00:00:00Z","updated":"0001-01-01T00:00:00Z"}},"code":200,"message":"Successfully"}
+[INFO]: 18-01-2024 18:08:54 - login: {"body":{"token":{"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JpemVkIjp0cnVlLCJlbWFpbCI6ImVrZUBnbWFpbC5jb20iLCJleHAiOjE3MDU1ODMzMzQsInVzZXJfaWQiOiJcdTAwMTAiLCJ1c2VybmFtZSI6ImVlcSJ9.ZbmemKPha72NZI5yhYtsiibNMAkEQ2Jj-ts_zeV6nFY","refresh_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JpemVkIjp0cnVlLCJlbWFpbCI6ImVrZUBnbWFpbC5jb20iLCJleHAiOjE3MDU1ODMzMzQsInVzZXJfaWQiOiJcdTAwMTAiLCJ1c2VybmFtZSI6ImVlcSJ9.ZbmemKPha72NZI5yhYtsiibNMAkEQ2Jj-ts_zeV6nFY"},"user":{"id":0,"username":"eeq","account_number":"123","email_address":"eke@gmail.com","identity_number":"321","created":"0001-01-01T00:00:00Z","updated":"0001-01-01T00:00:00Z"}},"code":200,"message":"Successfully"}
+[INFO]: 18-01-2024 18:10:19 - login: {"body":{"token":{"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JpemVkIjp0cnVlLCJlbWFpbCI6ImVrZUBnbWFpbC5jb20iLCJleHAiOjE3MDU1ODM0MTksInVzZXJfaWQiOiJcdTAwMTAiLCJ1c2VybmFtZSI6ImVlcSJ9.j2P7KzvfjMm6WwpEefuXn4fDLWcoUIGZ-H4LGKnRR7s","refresh_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JpemVkIjp0cnVlLCJlbWFpbCI6ImVrZUBnbWFpbC5jb20iLCJleHAiOjE3MDU1ODM0MTksInVzZXJfaWQiOiJcdTAwMTAiLCJ1c2VybmFtZSI6ImVlcSJ9.j2P7KzvfjMm6WwpEefuXn4fDLWcoUIGZ-H4LGKnRR7s"},"user":{"id":0,"username":"eeq","account_number":"123","email_address":"eke@gmail.com","identity_number":"321","created":"0001-01-01T00:00:00Z","updated":"0001-01-01T00:00:00Z"}},"code":200,"message":"Successfully"}
+[INFO]: 18-01-2024 18:14:12 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 18:14:12 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 18:14:12 - view all data user
+[INFO]: 18-01-2024 18:14:47 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 18:14:48 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 18:14:48 - view all data user
+[INFO]: 18-01-2024 18:17:22 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 18:17:22 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 18:17:22 - view all data user
+[INFO]: 18-01-2024 18:17:39 - Using MongoDB database: lutfi_folkatechdb
+[ERROR]: 18-01-2024 18:17:39 - In Server: wrong email or password
+[ERROR]: 18-01-2024 18:17:41 - In Server: wrong email or password
+[ERROR]: 18-01-2024 18:17:47 - In Server: wrong email or password
+[ERROR]: 18-01-2024 18:18:01 - In Server: wrong email or password
+[ERROR]: 18-01-2024 18:20:39 - In Server: wrong email or password
+[ERROR]: 18-01-2024 18:23:10 - In Server: wrong email or password
+[ERROR]: 18-01-2024 18:23:12 - In Server: wrong email or password
+[ERROR]: 18-01-2024 18:23:43 - In Server: wrong email or password
+[ERROR]: 18-01-2024 18:23:44 - In Server: wrong email or password
+[ERROR]: 18-01-2024 18:24:51 - In Server: wrong email or password
+[ERROR]: 18-01-2024 18:26:58 - In Server: wrong email or password
+[INFO]: 18-01-2024 18:27:32 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 18:27:32 - created user: {"body":{"username":"eeq","account_number":"123","email_address":"zz@gmail.com","identity_number":"321","created":"0001-01-01T00:00:00Z","updated":"0001-01-01T00:00:00Z"},"code":201,"message":"Successfully"}
+[INFO]: 18-01-2024 18:27:38 - Using MongoDB database: lutfi_folkatechdb
+[ERROR]: 18-01-2024 18:27:38 - In Server: wrong email or password
+[ERROR]: 18-01-2024 18:27:39 - In Server: wrong email or password
+[ERROR]: 18-01-2024 18:27:40 - In Server: wrong email or password
+[ERROR]: 18-01-2024 18:27:42 - In Server: wrong email or password
+[ERROR]: 18-01-2024 18:27:43 - In Server: wrong email or password
+[INFO]: 18-01-2024 18:27:48 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 18:27:48 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 18:27:48 - view all data user
+[ERROR]: 18-01-2024 18:27:56 - In Server: wrong email or password
+[ERROR]: 18-01-2024 18:28:07 - In Server: wrong email or password
+[ERROR]: 18-01-2024 18:28:09 - In Server: wrong email or password
+[ERROR]: 18-01-2024 18:28:10 - In Server: wrong email or password
+[ERROR]: 18-01-2024 18:28:54 - In Server: wrong email or password
+[ERROR]: 18-01-2024 18:28:56 - In Server: wrong email or password
+[ERROR]: 18-01-2024 18:30:15 - In Server: wrong email or password
+[ERROR]: 18-01-2024 18:33:41 - In Server: wrong email or password
+[ERROR]: 18-01-2024 18:34:39 - In Server: wrong email or password
+[ERROR]: 18-01-2024 18:35:14 - In Server: wrong email or password
+[INFO]: 18-01-2024 18:36:33 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 18:36:33 - login: {"body":{"token":{"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JpemVkIjp0cnVlLCJlbWFpbCI6ImVAZ21haWwuY29tIiwiZXhwIjoxNzA1NTg0OTkzLCJ1c2VyX2lkIjoiXHUwMDBlIiwidXNlcm5hbWUiOiJlZXEifQ.aGZV0X4RPpmwUJ7sdrBzwibAY4CdAoKl8v_Tbr2WXKw","refresh_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JpemVkIjp0cnVlLCJlbWFpbCI6ImVAZ21haWwuY29tIiwiZXhwIjoxNzA1NTg0OTkzLCJ1c2VyX2lkIjoiXHUwMDBlIiwidXNlcm5hbWUiOiJlZXEifQ.aGZV0X4RPpmwUJ7sdrBzwibAY4CdAoKl8v_Tbr2WXKw"},"user":{"id":0,"username":"eeq","account_number":"123","email_address":"e@gmail.com","identity_number":"321","created":"0001-01-01T00:00:00Z","updated":"0001-01-01T00:00:00Z"}},"code":200,"message":"Successfully"}
+[INFO]: 18-01-2024 18:37:36 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 18:37:36 - login: {"body":{"token":{"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JpemVkIjp0cnVlLCJlbWFpbCI6ImVrb0BnbWFpbC5jb20iLCJleHAiOjE3MDU1ODUwNTYsInVzZXJfaWQiOiJcdTAwMGMiLCJ1c2VybmFtZSI6InVkaW4ifQ.ObB7XCRFQamhXupJTbFeEat-DnKcs8g9ZGxJeWfWx_0","refresh_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JpemVkIjp0cnVlLCJlbWFpbCI6ImVrb0BnbWFpbC5jb20iLCJleHAiOjE3MDU1ODUwNTYsInVzZXJfaWQiOiJcdTAwMGMiLCJ1c2VybmFtZSI6InVkaW4ifQ.ObB7XCRFQamhXupJTbFeEat-DnKcs8g9ZGxJeWfWx_0"},"user":{"id":0,"username":"udin","account_number":"123","email_address":"eko@gmail.com","identity_number":"321","created":"0001-01-01T00:00:00Z","updated":"0001-01-01T00:00:00Z"}},"code":200,"message":"Successfully"}
+[INFO]: 18-01-2024 18:40:03 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 18:40:03 - login: {"body":{"token":{"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JpemVkIjp0cnVlLCJlbWFpbCI6ImVrb0BnbWFpbC5jb20iLCJleHAiOjE3MDU1ODUyMDMsInVzZXJfaWQiOiJcdTAwMGMiLCJ1c2VybmFtZSI6InVkaW4ifQ.YD1Z0pT9Qc-PEt-fOPsDkPJF9YUYOK_VcH3R5geHFYE","refresh_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JpemVkIjp0cnVlLCJlbWFpbCI6ImVrb0BnbWFpbC5jb20iLCJleHAiOjE3MDU1ODUyMDMsInVzZXJfaWQiOiJcdTAwMGMiLCJ1c2VybmFtZSI6InVkaW4ifQ.YD1Z0pT9Qc-PEt-fOPsDkPJF9YUYOK_VcH3R5geHFYE"},"user":{"id":12,"username":"udin","account_number":"123","email_address":"eko@gmail.com","identity_number":"321","created":"0001-01-01T00:00:00Z","updated":"0001-01-01T00:00:00Z"}},"code":200,"message":"Successfully"}
+[INFO]: 18-01-2024 18:41:54 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 18:41:54 - login: {"body":{"token":{"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JpemVkIjp0cnVlLCJlbWFpbCI6ImVrb0BnbWFpbC5jb20iLCJleHAiOjE3MDU1ODUzMTQsInVzZXJfaWQiOiJcdTAwMGMiLCJ1c2VybmFtZSI6InVkaW4ifQ.129DMUIiQltjUp5i5tTAFNanpJPkGG5PWGIKeMTaT_Q","refresh_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JpemVkIjp0cnVlLCJlbWFpbCI6ImVrb0BnbWFpbC5jb20iLCJleHAiOjE3MDU1ODUzMTQsInVzZXJfaWQiOiJcdTAwMGMiLCJ1c2VybmFtZSI6InVkaW4ifQ.129DMUIiQltjUp5i5tTAFNanpJPkGG5PWGIKeMTaT_Q"},"user":{"id":12,"username":"udin","account_number":"123","email_address":"eko@gmail.com","identity_number":"321","created":"0001-01-01T00:00:00Z","updated":"0001-01-01T00:00:00Z"}},"code":200,"message":"Successfully"}
+[INFO]: 18-01-2024 18:42:00 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 18:42:00 - login: {"body":{"token":{"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JpemVkIjp0cnVlLCJlbWFpbCI6ImVrb0BnbWFpbC5jb20iLCJleHAiOjE3MDU1ODUzMjAsInVzZXJfaWQiOiJcdTAwMGMiLCJ1c2VybmFtZSI6InVkaW4ifQ.AMWK5IULuzXYVitXqrfWi4awtvkLxVnQn7-bAQEecRU","refresh_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JpemVkIjp0cnVlLCJlbWFpbCI6ImVrb0BnbWFpbC5jb20iLCJleHAiOjE3MDU1ODUzMjAsInVzZXJfaWQiOiJcdTAwMGMiLCJ1c2VybmFtZSI6InVkaW4ifQ.AMWK5IULuzXYVitXqrfWi4awtvkLxVnQn7-bAQEecRU"},"user":{"id":12,"username":"udin","account_number":"123","email_address":"eko@gmail.com","identity_number":"321","created":"0001-01-01T00:00:00Z","updated":"0001-01-01T00:00:00Z"}},"code":200,"message":"Successfully"}
+[INFO]: 18-01-2024 18:42:38 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 18:42:39 - login: {"body":{"token":{"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JpemVkIjp0cnVlLCJlbWFpbCI6ImVrb0BnbWFpbC5jb20iLCJleHAiOjE3MDU1ODUzNTksInVzZXJfaWQiOiJcdTAwMGMiLCJ1c2VybmFtZSI6InVkaW4ifQ.vko-NfR_OX-rT1uKW4KAIzOXcb8DUiWyAD37AOA8QOs","refresh_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JpemVkIjp0cnVlLCJlbWFpbCI6ImVrb0BnbWFpbC5jb20iLCJleHAiOjE3MDU1ODUzNTksInVzZXJfaWQiOiJcdTAwMGMiLCJ1c2VybmFtZSI6InVkaW4ifQ.vko-NfR_OX-rT1uKW4KAIzOXcb8DUiWyAD37AOA8QOs"},"user":{"id":12,"username":"udin","account_number":"123","email_address":"eko@gmail.com","identity_number":"321","created":"0001-01-01T00:00:00Z","updated":"0001-01-01T00:00:00Z"}},"code":200,"message":"Successfully"}
+[ERROR]: 18-01-2024 18:42:53 - In Server: No token bearer provided
+[ERROR]: 18-01-2024 18:42:58 - In Server: No token bearer provided
+[ERROR]: 18-01-2024 18:43:05 - In Server: No token bearer provided
+[INFO]: 18-01-2024 18:43:15 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 18:43:15 - login: {"body":{"token":{"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JpemVkIjp0cnVlLCJlbWFpbCI6ImVrb0BnbWFpbC5jb20iLCJleHAiOjE3MDU1ODUzOTUsInVzZXJfaWQiOiJcdTAwMGMiLCJ1c2VybmFtZSI6InVkaW4ifQ.HeCVhDbLdqaMdyM5n6wIw7vEFKKSI0tr9lse8-fmJO8","refresh_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JpemVkIjp0cnVlLCJlbWFpbCI6ImVrb0BnbWFpbC5jb20iLCJleHAiOjE3MDU1ODUzOTUsInVzZXJfaWQiOiJcdTAwMGMiLCJ1c2VybmFtZSI6InVkaW4ifQ.HeCVhDbLdqaMdyM5n6wIw7vEFKKSI0tr9lse8-fmJO8"},"user":{"id":12,"username":"udin","account_number":"123","email_address":"eko@gmail.com","identity_number":"321","created":"0001-01-01T00:00:00Z","updated":"0001-01-01T00:00:00Z"}},"code":200,"message":"Successfully"}
+[INFO]: 18-01-2024 18:44:00 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 18:44:00 - created user: {"body":{"username":"eeq","account_number":"123","email_address":"zz@gmail.com","identity_number":"321","created":"0001-01-01T00:00:00Z","updated":"0001-01-01T00:00:00Z"},"code":201,"message":"Successfully"}
+[INFO]: 18-01-2024 18:44:38 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 18:44:38 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 18:44:38 - view all data user
+[INFO]: 18-01-2024 18:44:59 - view all data user
+[INFO]: 18-01-2024 18:45:03 - view all data user
+[INFO]: 18-01-2024 18:45:06 - view all data user
+[INFO]: 18-01-2024 18:45:16 - view all data user
+[INFO]: 18-01-2024 18:45:19 - view all data user
+[INFO]: 18-01-2024 18:45:20 - view all data user
+[INFO]: 18-01-2024 18:45:22 - view all data user
+[INFO]: 18-01-2024 18:45:36 - view all data user
+[INFO]: 18-01-2024 18:45:38 - view all data user
+[INFO]: 18-01-2024 18:45:41 - view all data user
+[INFO]: 18-01-2024 18:45:47 - view all data user
+[INFO]: 18-01-2024 18:46:13 - Using MongoDB database: lutfi_folkatechdb
+[ERROR]: 18-01-2024 18:46:13 - In Server: mongo: no documents in result
+[ERROR]: 18-01-2024 18:46:13 - error function params:  mongo: no documents in result
+[ERROR]: 18-01-2024 18:46:13 - In Server: mongo: no documents in result
+[ERROR]: 18-01-2024 18:46:13 - In Server: mongo: no documents in result
+[INFO]: 18-01-2024 18:46:26 - view all data user
+[INFO]: 18-01-2024 18:48:45 - view all data user
+[INFO]: 18-01-2024 18:48:57 - view all data user
+[INFO]: 18-01-2024 18:48:59 - view all data user
+[INFO]: 18-01-2024 18:49:02 - view all data user
+[INFO]: 18-01-2024 18:49:04 - view all data user
+[INFO]: 18-01-2024 18:49:15 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 18:49:15 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 18:49:15 - Deleted user success
+[INFO]: 18-01-2024 18:49:23 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 18:49:23 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 18:49:23 - view all data user
+[INFO]: 18-01-2024 18:49:30 - view all data user
+[INFO]: 18-01-2024 18:49:54 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 18:49:54 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 18:49:54 - view all data user
+[INFO]: 18-01-2024 19:01:48 - view all data user
+[INFO]: 18-01-2024 19:01:54 - view all data user
+[INFO]: 18-01-2024 19:01:57 - view all data user
+[INFO]: 18-01-2024 19:02:07 - view all data user
+[INFO]: 18-01-2024 19:02:10 - view all data user
+[INFO]: 18-01-2024 19:02:31 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 19:02:31 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 19:02:32 - view all data user
+[INFO]: 18-01-2024 19:02:50 - view all data user
+[INFO]: 18-01-2024 19:02:55 - view all data user
+[INFO]: 18-01-2024 19:03:12 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 19:03:12 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 19:03:12 - view all data user
+[INFO]: 18-01-2024 19:30:52 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 19:30:52 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 19:30:52 - view all data user
+[INFO]: 18-01-2024 19:31:13 - view all data user
+[INFO]: 18-01-2024 19:31:17 - view all data user
+[INFO]: 18-01-2024 19:31:24 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 19:31:24 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 19:31:24 - view all data user
+[INFO]: 18-01-2024 19:33:47 - view all data user
+[INFO]: 18-01-2024 19:33:59 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 19:33:59 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 19:33:59 - view all data user
+[INFO]: 18-01-2024 19:35:41 - view all data user
+[INFO]: 18-01-2024 19:35:50 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 19:35:50 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 19:35:50 - view all data user
+[INFO]: 18-01-2024 19:38:27 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 19:38:27 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 19:38:28 - view all data user
+[INFO]: 18-01-2024 19:38:38 - view all data user
+[INFO]: 18-01-2024 19:38:41 - view all data user
+[INFO]: 18-01-2024 19:38:45 - view all data user
+[INFO]: 18-01-2024 19:39:35 - view all data user
+[INFO]: 18-01-2024 19:39:38 - view all data user
+[INFO]: 18-01-2024 19:40:13 - view all data user
+[INFO]: 18-01-2024 19:40:25 - view all data user
+[INFO]: 18-01-2024 19:40:30 - view all data user
+[INFO]: 18-01-2024 19:40:58 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 19:40:58 - created user: {"body":{"username":"eeq","account_number":"123","email_address":"zzo@gmail.com","identity_number":"321","created":"0001-01-01T00:00:00Z","updated":"0001-01-01T00:00:00Z"},"code":201,"message":"Successfully"}
+[INFO]: 18-01-2024 19:41:10 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 19:41:10 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 19:41:10 - view all data user
+[INFO]: 18-01-2024 19:41:39 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 19:41:39 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 19:41:39 - view all data user
+[INFO]: 18-01-2024 19:42:04 - view all data user
+[INFO]: 18-01-2024 19:42:45 - view all data user
+[INFO]: 18-01-2024 19:51:26 - view all data user
+[INFO]: 18-01-2024 19:51:28 - view all data user
+[INFO]: 18-01-2024 19:51:41 - view all data user
+[INFO]: 18-01-2024 19:51:45 - view all data user
+[INFO]: 18-01-2024 19:51:53 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 19:51:53 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 19:51:53 - view all data user
+[INFO]: 18-01-2024 19:52:00 - view all data user
+[INFO]: 18-01-2024 19:54:13 - view all data user
+[INFO]: 18-01-2024 19:54:19 - view all data user
+[INFO]: 18-01-2024 19:54:21 - view all data user
+[INFO]: 18-01-2024 19:54:23 - view all data user
+[INFO]: 18-01-2024 19:54:39 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 19:54:39 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 19:54:39 - view all data user
+[INFO]: 18-01-2024 19:54:44 - view all data user
+[INFO]: 18-01-2024 19:54:47 - view all data user
+[INFO]: 18-01-2024 19:54:49 - view all data user
+[ERROR]: 18-01-2024 22:17:39 - init redis fail: dial tcp: address 127.0.0.1:6379:: too many colons in address
+[ERROR]: 18-01-2024 22:18:42 - init redis fail: dial tcp: address 127.0.0.1:6379:: too many colons in address
+[ERROR]: 18-01-2024 22:18:45 - init redis fail: dial tcp: address 127.0.0.1:6379:: too many colons in address
+[ERROR]: 18-01-2024 22:18:48 - init redis fail: dial tcp: address 127.0.0.1:6379:: too many colons in address
+[ERROR]: 18-01-2024 22:18:50 - init redis fail: dial tcp: address 127.0.0.1:6379:: too many colons in address
+[ERROR]: 18-01-2024 22:20:26 - init redis fail: dial tcp: address 127.0.0.1:6379:: too many colons in address
+[ERROR]: 18-01-2024 22:21:34 - Error getting env
+[INFO]: 18-01-2024 22:23:18 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 22:23:19 - login: {"body":{"token":{"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JpemVkIjp0cnVlLCJlbWFpbCI6ImVrb0BnbWFpbC5jb20iLCJleHAiOjE3MDU1OTg1OTksInVzZXJfaWQiOiJcdTAwMGMiLCJ1c2VybmFtZSI6InVkaW4ifQ.b4Bv6DoZbsjDd2-e4chzZqNy3PSWgd8fThC8rhXoUzM","refresh_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JpemVkIjp0cnVlLCJlbWFpbCI6ImVrb0BnbWFpbC5jb20iLCJleHAiOjE3MDU1OTg1OTksInVzZXJfaWQiOiJcdTAwMGMiLCJ1c2VybmFtZSI6InVkaW4ifQ.b4Bv6DoZbsjDd2-e4chzZqNy3PSWgd8fThC8rhXoUzM"},"user":{"id":12,"username":"udin","account_number":"123","email_address":"eko@gmail.com","identity_number":"321","created":"0001-01-01T00:00:00Z","updated":"0001-01-01T00:00:00Z"}},"code":200,"message":"Successfully"}
+[INFO]: 18-01-2024 22:23:54 - Using MongoDB database: lutfi_folkatechdb
+[INFO]: 18-01-2024 22:23:54 - login: {"body":{"token":{"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JpemVkIjp0cnVlLCJlbWFpbCI6ImVrb0BnbWFpbC5jb20iLCJleHAiOjE3MDU1OTg2MzQsInVzZXJfaWQiOiJcdTAwMGMiLCJ1c2VybmFtZSI6InVkaW4ifQ.zdUgXZXtNcanq2lGvXMD3dtid0CbfqrOYVWzjN5aK04","refresh_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JpemVkIjp0cnVlLCJlbWFpbCI6ImVrb0BnbWFpbC5jb20iLCJleHAiOjE3MDU1OTg2MzQsInVzZXJfaWQiOiJcdTAwMGMiLCJ1c2VybmFtZSI6InVkaW4ifQ.zdUgXZXtNcanq2lGvXMD3dtid0CbfqrOYVWzjN5aK04"},"user":{"id":12,"username":"udin","account_number":"123","email_address":"eko@gmail.com","identity_number":"321","created":"0001-01-01T00:00:00Z","updated":"0001-01-01T00:00:00Z"}},"code":200,"message":"Successfully"}
